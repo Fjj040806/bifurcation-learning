@@ -1,0 +1,182 @@
+[
+  {
+    "step": 100,
+    "train_batch_mse": 0.00024326928391396786,
+    "validation_mse": 0.002090510163919815
+  },
+  {
+    "step": 200,
+    "train_batch_mse": 0.000238153566109597,
+    "validation_mse": 0.0020950253399508807
+  },
+  {
+    "step": 300,
+    "train_batch_mse": 0.00025097997319629105,
+    "validation_mse": 0.0021397722668196595
+  },
+  {
+    "step": 400,
+    "train_batch_mse": 0.0002262860114293703,
+    "validation_mse": 0.0021023739702695646
+  },
+  {
+    "step": 500,
+    "train_batch_mse": 0.00018254625149174218,
+    "validation_mse": 0.0019511092909760047
+  },
+  {
+    "step": 600,
+    "train_batch_mse": 0.0002678950795946153,
+    "validation_mse": 0.0019882577880845635
+  },
+  {
+    "step": 700,
+    "train_batch_mse": 0.00021326593828992598,
+    "validation_mse": 0.002004427067132837
+  },
+  {
+    "step": 800,
+    "train_batch_mse": 0.00020976182080716793,
+    "validation_mse": 0.0019680844620757437
+  },
+  {
+    "step": 900,
+    "train_batch_mse": 0.00020469464349922098,
+    "validation_mse": 0.001968892017076753
+  },
+  {
+    "step": 1000,
+    "train_batch_mse": 0.0002306822842780625,
+    "validation_mse": 0.002036642598852094
+  },
+  {
+    "step": 1100,
+    "train_batch_mse": 0.00019841598811936624,
+    "validation_mse": 0.002036094076623017
+  },
+  {
+    "step": 1200,
+    "train_batch_mse": 0.0002148274293382849,
+    "validation_mse": 0.0018891223677519
+  },
+  {
+    "step": 1300,
+    "train_batch_mse": 0.00020696465912246797,
+    "validation_mse": 0.0020241695055240264
+  },
+  {
+    "step": 1400,
+    "train_batch_mse": 0.00021750935430897252,
+    "validation_mse": 0.002039004421213617
+  },
+  {
+    "step": 1500,
+    "train_batch_mse": 0.00020605945017829872,
+    "validation_mse": 0.0020304614234658083
+  },
+  {
+    "step": 1600,
+    "train_batch_mse": 0.0002579668085053663,
+    "validation_mse": 0.0019387476384124247
+  },
+  {
+    "step": 1700,
+    "train_batch_mse": 0.00020542060992975446,
+    "validation_mse": 0.0019694664368550088
+  },
+  {
+    "step": 1800,
+    "train_batch_mse": 0.00019468790425356057,
+    "validation_mse": 0.001887684606073561
+  },
+  {
+    "step": 1900,
+    "train_batch_mse": 0.00021305075537434307,
+    "validation_mse": 0.001994324382822505
+  },
+  {
+    "step": 2000,
+    "train_batch_mse": 0.00020097386823105494,
+    "validation_mse": 0.0020962368449539367
+  },
+  {
+    "step": 2100,
+    "train_batch_mse": 0.0002021914204998374,
+    "validation_mse": 0.0020735269169794538
+  },
+  {
+    "step": 2200,
+    "train_batch_mse": 0.00019841836316904053,
+    "validation_mse": 0.0019506281835608768
+  },
+  {
+    "step": 2300,
+    "train_batch_mse": 0.00020037248276166174,
+    "validation_mse": 0.0021362053625265903
+  },
+  {
+    "step": 2400,
+    "train_batch_mse": 0.00019881308615152596,
+    "validation_mse": 0.0019564496282020363
+  },
+  {
+    "step": 2500,
+    "train_batch_mse": 0.00020199019525351722,
+    "validation_mse": 0.0020498725544663243
+  },
+  {
+    "step": 2600,
+    "train_batch_mse": 0.00022422484876407942,
+    "validation_mse": 0.0019420180659017003
+  },
+  {
+    "step": 2700,
+    "train_batch_mse": 0.00021171554680446904,
+    "validation_mse": 0.0019628308007836855
+  },
+  {
+    "step": 2800,
+    "train_batch_mse": 0.0002338564881649625,
+    "validation_mse": 0.0020803113189560274
+  },
+  {
+    "step": 2900,
+    "train_batch_mse": 0.00023634173727920881,
+    "validation_mse": 0.001874964049982956
+  },
+  {
+    "step": 3000,
+    "train_batch_mse": 0.0001987753648251568,
+    "validation_mse": 0.0019817362470034
+  },
+  {
+    "step": 3100,
+    "train_batch_mse": 0.0001835249917314391,
+    "validation_mse": 0.0018255864787668549
+  },
+  {
+    "step": 3200,
+    "train_batch_mse": 0.00023284228794383293,
+    "validation_mse": 0.0020082848279511806
+  },
+  {
+    "step": 3300,
+    "train_batch_mse": 0.00021997265467428516,
+    "validation_mse": 0.0019310800086739938
+  },
+  {
+    "step": 3400,
+    "train_batch_mse": 0.0002272925541877363,
+    "validation_mse": 0.0021229428921829456
+  },
+  {
+    "step": 3500,
+    "train_batch_mse": 0.00025142386064689367,
+    "validation_mse": 0.001973800689078598
+  },
+  {
+    "step": 3600,
+    "train_batch_mse": 0.0002140898770995404,
+    "validation_mse": 0.0019788662619109007
+  }
+]

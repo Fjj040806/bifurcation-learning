@@ -1,0 +1,482 @@
+[
+  {
+    "design": "passive",
+    "budget": 4096,
+    "seed": 0,
+    "steps": 1200,
+    "balanced_training_segment_mse": 5.578340527837132e-06,
+    "balanced_gradient_norm": 0.00037278325232291794
+  },
+  {
+    "design": "passive",
+    "budget": 4096,
+    "seed": 0,
+    "steps": 3600,
+    "balanced_training_segment_mse": 5.578340527837132e-06,
+    "balanced_gradient_norm": 0.00037278325232291794
+  },
+  {
+    "design": "passive",
+    "budget": 4096,
+    "seed": 1,
+    "steps": 1200,
+    "balanced_training_segment_mse": 2.7536972984881956e-06,
+    "balanced_gradient_norm": 0.00032522597170875735
+  },
+  {
+    "design": "passive",
+    "budget": 4096,
+    "seed": 1,
+    "steps": 3600,
+    "balanced_training_segment_mse": 2.7536972984881956e-06,
+    "balanced_gradient_norm": 0.00032522597170875735
+  },
+  {
+    "design": "passive",
+    "budget": 4096,
+    "seed": 2,
+    "steps": 1200,
+    "balanced_training_segment_mse": 4.444974268320279e-06,
+    "balanced_gradient_norm": 0.0001913873178882561
+  },
+  {
+    "design": "passive",
+    "budget": 4096,
+    "seed": 2,
+    "steps": 3600,
+    "balanced_training_segment_mse": 4.444974268320279e-06,
+    "balanced_gradient_norm": 0.0001913873178882561
+  },
+  {
+    "design": "passive",
+    "budget": 4096,
+    "seed": 3,
+    "steps": 1200,
+    "balanced_training_segment_mse": 2.865204389186504e-07,
+    "balanced_gradient_norm": 8.125938500451837e-05
+  },
+  {
+    "design": "passive",
+    "budget": 4096,
+    "seed": 3,
+    "steps": 3600,
+    "balanced_training_segment_mse": 2.295217151034679e-07,
+    "balanced_gradient_norm": 0.0002787185539131833
+  },
+  {
+    "design": "passive",
+    "budget": 4096,
+    "seed": 4,
+    "steps": 1200,
+    "balanced_training_segment_mse": 3.121281729335493e-05,
+    "balanced_gradient_norm": 0.000319910227964851
+  },
+  {
+    "design": "passive",
+    "budget": 4096,
+    "seed": 4,
+    "steps": 3600,
+    "balanced_training_segment_mse": 3.121281729335493e-05,
+    "balanced_gradient_norm": 0.000319910227964851
+  },
+  {
+    "design": "random",
+    "budget": 4096,
+    "seed": 0,
+    "steps": 1200,
+    "balanced_training_segment_mse": 3.5687208227655285e-05,
+    "balanced_gradient_norm": 0.001266389441293068
+  },
+  {
+    "design": "random",
+    "budget": 4096,
+    "seed": 0,
+    "steps": 3600,
+    "balanced_training_segment_mse": 3.7911597371374986e-06,
+    "balanced_gradient_norm": 0.0006336087303786212
+  },
+  {
+    "design": "random",
+    "budget": 4096,
+    "seed": 1,
+    "steps": 1200,
+    "balanced_training_segment_mse": 4.012185172684506e-05,
+    "balanced_gradient_norm": 0.0012374937869077858
+  },
+  {
+    "design": "random",
+    "budget": 4096,
+    "seed": 1,
+    "steps": 3600,
+    "balanced_training_segment_mse": 3.3494246125836413e-06,
+    "balanced_gradient_norm": 0.0007771923794344728
+  },
+  {
+    "design": "random",
+    "budget": 4096,
+    "seed": 2,
+    "steps": 1200,
+    "balanced_training_segment_mse": 3.0783304566888426e-05,
+    "balanced_gradient_norm": 0.0009015219069881408
+  },
+  {
+    "design": "random",
+    "budget": 4096,
+    "seed": 2,
+    "steps": 3600,
+    "balanced_training_segment_mse": 5.6325991218275755e-06,
+    "balanced_gradient_norm": 0.0008487493038562018
+  },
+  {
+    "design": "random",
+    "budget": 4096,
+    "seed": 3,
+    "steps": 1200,
+    "balanced_training_segment_mse": 2.9798902854226645e-05,
+    "balanced_gradient_norm": 0.0011221621453122031
+  },
+  {
+    "design": "random",
+    "budget": 4096,
+    "seed": 3,
+    "steps": 3600,
+    "balanced_training_segment_mse": 3.045190321505267e-06,
+    "balanced_gradient_norm": 0.0008001105617487193
+  },
+  {
+    "design": "random",
+    "budget": 4096,
+    "seed": 4,
+    "steps": 1200,
+    "balanced_training_segment_mse": 1.5574477809511036e-05,
+    "balanced_gradient_norm": 0.0009994471014078492
+  },
+  {
+    "design": "random",
+    "budget": 4096,
+    "seed": 4,
+    "steps": 3600,
+    "balanced_training_segment_mse": 5.895043393846561e-06,
+    "balanced_gradient_norm": 0.0014766131631387459
+  },
+  {
+    "design": "probe",
+    "budget": 4096,
+    "seed": 0,
+    "steps": 1200,
+    "balanced_training_segment_mse": 6.805744489309242e-06,
+    "balanced_gradient_norm": 0.00041374568623885386
+  },
+  {
+    "design": "probe",
+    "budget": 4096,
+    "seed": 0,
+    "steps": 3600,
+    "balanced_training_segment_mse": 1.9357358847469366e-06,
+    "balanced_gradient_norm": 0.00048333089909966047
+  },
+  {
+    "design": "probe",
+    "budget": 4096,
+    "seed": 1,
+    "steps": 1200,
+    "balanced_training_segment_mse": 4.875806338393419e-06,
+    "balanced_gradient_norm": 0.0004381407994079435
+  },
+  {
+    "design": "probe",
+    "budget": 4096,
+    "seed": 1,
+    "steps": 3600,
+    "balanced_training_segment_mse": 2.8662989440277445e-06,
+    "balanced_gradient_norm": 0.0009938560076260235
+  },
+  {
+    "design": "probe",
+    "budget": 4096,
+    "seed": 2,
+    "steps": 1200,
+    "balanced_training_segment_mse": 5.82432007131006e-06,
+    "balanced_gradient_norm": 0.00017565462830975838
+  },
+  {
+    "design": "probe",
+    "budget": 4096,
+    "seed": 2,
+    "steps": 3600,
+    "balanced_training_segment_mse": 1.6979028334602397e-06,
+    "balanced_gradient_norm": 0.00030901183803162813
+  },
+  {
+    "design": "probe",
+    "budget": 4096,
+    "seed": 3,
+    "steps": 1200,
+    "balanced_training_segment_mse": 2.1066990107785966e-06,
+    "balanced_gradient_norm": 0.0002531981082373996
+  },
+  {
+    "design": "probe",
+    "budget": 4096,
+    "seed": 3,
+    "steps": 3600,
+    "balanced_training_segment_mse": 2.261438832776175e-06,
+    "balanced_gradient_norm": 0.0006563491760041005
+  },
+  {
+    "design": "probe",
+    "budget": 4096,
+    "seed": 4,
+    "steps": 1200,
+    "balanced_training_segment_mse": 3.313085549207155e-05,
+    "balanced_gradient_norm": 0.00032766368418479276
+  },
+  {
+    "design": "probe",
+    "budget": 4096,
+    "seed": 4,
+    "steps": 3600,
+    "balanced_training_segment_mse": 3.313085549207155e-05,
+    "balanced_gradient_norm": 0.00032766368418479276
+  },
+  {
+    "design": "passive",
+    "budget": 16384,
+    "seed": 0,
+    "steps": 1200,
+    "balanced_training_segment_mse": 4.139352373773884e-06,
+    "balanced_gradient_norm": 0.0005893072474852562
+  },
+  {
+    "design": "passive",
+    "budget": 16384,
+    "seed": 0,
+    "steps": 3600,
+    "balanced_training_segment_mse": 4.139352373773884e-06,
+    "balanced_gradient_norm": 0.0005893072474852562
+  },
+  {
+    "design": "passive",
+    "budget": 16384,
+    "seed": 1,
+    "steps": 1200,
+    "balanced_training_segment_mse": 1.0527059288790582e-05,
+    "balanced_gradient_norm": 0.0002872166112783189
+  },
+  {
+    "design": "passive",
+    "budget": 16384,
+    "seed": 1,
+    "steps": 3600,
+    "balanced_training_segment_mse": 1.0527059288790582e-05,
+    "balanced_gradient_norm": 0.0002872166112783189
+  },
+  {
+    "design": "passive",
+    "budget": 16384,
+    "seed": 2,
+    "steps": 1200,
+    "balanced_training_segment_mse": 7.2551455625299895e-06,
+    "balanced_gradient_norm": 0.000354073708379131
+  },
+  {
+    "design": "passive",
+    "budget": 16384,
+    "seed": 2,
+    "steps": 3600,
+    "balanced_training_segment_mse": 7.2551455625299895e-06,
+    "balanced_gradient_norm": 0.000354073708379131
+  },
+  {
+    "design": "passive",
+    "budget": 16384,
+    "seed": 3,
+    "steps": 1200,
+    "balanced_training_segment_mse": 9.441564829119491e-07,
+    "balanced_gradient_norm": 0.00029108187531714125
+  },
+  {
+    "design": "passive",
+    "budget": 16384,
+    "seed": 3,
+    "steps": 3600,
+    "balanced_training_segment_mse": 6.185980102010855e-07,
+    "balanced_gradient_norm": 0.0006585022382877446
+  },
+  {
+    "design": "passive",
+    "budget": 16384,
+    "seed": 4,
+    "steps": 1200,
+    "balanced_training_segment_mse": 1.1891884864343534e-05,
+    "balanced_gradient_norm": 0.0005460908361345745
+  },
+  {
+    "design": "passive",
+    "budget": 16384,
+    "seed": 4,
+    "steps": 3600,
+    "balanced_training_segment_mse": 1.1891884864343534e-05,
+    "balanced_gradient_norm": 0.0005460908361345745
+  },
+  {
+    "design": "random",
+    "budget": 16384,
+    "seed": 0,
+    "steps": 1200,
+    "balanced_training_segment_mse": 4.822602915783347e-05,
+    "balanced_gradient_norm": 0.000967003702007122
+  },
+  {
+    "design": "random",
+    "budget": 16384,
+    "seed": 0,
+    "steps": 3600,
+    "balanced_training_segment_mse": 4.713295567205873e-06,
+    "balanced_gradient_norm": 0.0012386822598721826
+  },
+  {
+    "design": "random",
+    "budget": 16384,
+    "seed": 1,
+    "steps": 1200,
+    "balanced_training_segment_mse": 6.030047958056949e-05,
+    "balanced_gradient_norm": 0.0016380240958842342
+  },
+  {
+    "design": "random",
+    "budget": 16384,
+    "seed": 1,
+    "steps": 3600,
+    "balanced_training_segment_mse": 4.6203111950571846e-06,
+    "balanced_gradient_norm": 0.0005155024825626261
+  },
+  {
+    "design": "random",
+    "budget": 16384,
+    "seed": 2,
+    "steps": 1200,
+    "balanced_training_segment_mse": 5.095127297762532e-05,
+    "balanced_gradient_norm": 0.000826825154595117
+  },
+  {
+    "design": "random",
+    "budget": 16384,
+    "seed": 2,
+    "steps": 3600,
+    "balanced_training_segment_mse": 9.101205029151217e-06,
+    "balanced_gradient_norm": 0.001086434912729467
+  },
+  {
+    "design": "random",
+    "budget": 16384,
+    "seed": 3,
+    "steps": 1200,
+    "balanced_training_segment_mse": 6.11789080129068e-05,
+    "balanced_gradient_norm": 0.0008359480344823874
+  },
+  {
+    "design": "random",
+    "budget": 16384,
+    "seed": 3,
+    "steps": 3600,
+    "balanced_training_segment_mse": 6.735722248148624e-06,
+    "balanced_gradient_norm": 0.0005202261997167877
+  },
+  {
+    "design": "random",
+    "budget": 16384,
+    "seed": 4,
+    "steps": 1200,
+    "balanced_training_segment_mse": 4.0903677142716984e-05,
+    "balanced_gradient_norm": 0.0010625700086217642
+  },
+  {
+    "design": "random",
+    "budget": 16384,
+    "seed": 4,
+    "steps": 3600,
+    "balanced_training_segment_mse": 3.019203218118306e-06,
+    "balanced_gradient_norm": 0.00024072470330969954
+  },
+  {
+    "design": "probe",
+    "budget": 16384,
+    "seed": 0,
+    "steps": 1200,
+    "balanced_training_segment_mse": 3.6694613961053674e-06,
+    "balanced_gradient_norm": 0.00035233963189429044
+  },
+  {
+    "design": "probe",
+    "budget": 16384,
+    "seed": 0,
+    "steps": 3600,
+    "balanced_training_segment_mse": 1.8595192057129502e-06,
+    "balanced_gradient_norm": 0.000552064480335988
+  },
+  {
+    "design": "probe",
+    "budget": 16384,
+    "seed": 1,
+    "steps": 1200,
+    "balanced_training_segment_mse": 1.1838886607999351e-05,
+    "balanced_gradient_norm": 0.00026560748629255365
+  },
+  {
+    "design": "probe",
+    "budget": 16384,
+    "seed": 1,
+    "steps": 3600,
+    "balanced_training_segment_mse": 1.541384255797082e-06,
+    "balanced_gradient_norm": 0.0003440676447038028
+  },
+  {
+    "design": "probe",
+    "budget": 16384,
+    "seed": 2,
+    "steps": 1200,
+    "balanced_training_segment_mse": 8.36831845330649e-06,
+    "balanced_gradient_norm": 0.0003062706496897376
+  },
+  {
+    "design": "probe",
+    "budget": 16384,
+    "seed": 2,
+    "steps": 3600,
+    "balanced_training_segment_mse": 8.36831845330649e-06,
+    "balanced_gradient_norm": 0.0003062706496897376
+  },
+  {
+    "design": "probe",
+    "budget": 16384,
+    "seed": 3,
+    "steps": 1200,
+    "balanced_training_segment_mse": 1.7415583144644017e-06,
+    "balanced_gradient_norm": 0.0002550887516537925
+  },
+  {
+    "design": "probe",
+    "budget": 16384,
+    "seed": 3,
+    "steps": 3600,
+    "balanced_training_segment_mse": 1.8411967418718984e-06,
+    "balanced_gradient_norm": 0.00041206551815169677
+  },
+  {
+    "design": "probe",
+    "budget": 16384,
+    "seed": 4,
+    "steps": 1200,
+    "balanced_training_segment_mse": 1.3283130542659744e-05,
+    "balanced_gradient_norm": 0.00040704638040940893
+  },
+  {
+    "design": "probe",
+    "budget": 16384,
+    "seed": 4,
+    "steps": 3600,
+    "balanced_training_segment_mse": 1.3283130542659744e-05,
+    "balanced_gradient_norm": 0.00040704638040940893
+  }
+]

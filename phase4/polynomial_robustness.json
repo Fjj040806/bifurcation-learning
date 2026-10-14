@@ -1,0 +1,2674 @@
+[
+  {
+    "design": "passive",
+    "amplitude": 0.02,
+    "T": 5,
+    "noise_sigma": 0,
+    "acquisition_seed": 0,
+    "budget": 4096,
+    "dictionary_rank": 11,
+    "crossings": [
+      -0.3137624029116932
+    ],
+    "crossing_error": 0.3137624029116932,
+    "root_failures": 0,
+    "crossing_slopes": [
+      6.664447401881067e-13
+    ],
+    "orientation_matches_truth": true
+  },
+  {
+    "design": "passive",
+    "amplitude": 0.02,
+    "T": 5,
+    "noise_sigma": 0,
+    "acquisition_seed": 1,
+    "budget": 4096,
+    "dictionary_rank": 11,
+    "crossings": [
+      0.11340261243697214
+    ],
+    "crossing_error": 0.11340261243697214,
+    "root_failures": 0,
+    "crossing_slopes": [
+      2.6884339044673823e-12
+    ],
+    "orientation_matches_truth": true
+  },
+  {
+    "design": "passive",
+    "amplitude": 0.02,
+    "T": 5,
+    "noise_sigma": 0,
+    "acquisition_seed": 2,
+    "budget": 4096,
+    "dictionary_rank": 11,
+    "crossings": [],
+    "crossing_error": null,
+    "root_failures": 0,
+    "crossing_slopes": [],
+    "orientation_matches_truth": false
+  },
+  {
+    "design": "passive",
+    "amplitude": 0.02,
+    "T": 5,
+    "noise_sigma": 0,
+    "acquisition_seed": 3,
+    "budget": 4096,
+    "dictionary_rank": 11,
+    "crossings": [
+      -0.3845302960027671
+    ],
+    "crossing_error": 0.3845302960027671,
+    "root_failures": 0,
+    "crossing_slopes": [
+      1.90980471793673e-12
+    ],
+    "orientation_matches_truth": true
+  },
+  {
+    "design": "passive",
+    "amplitude": 0.02,
+    "T": 5,
+    "noise_sigma": 0,
+    "acquisition_seed": 4,
+    "budget": 4096,
+    "dictionary_rank": 11,
+    "crossings": [],
+    "crossing_error": null,
+    "root_failures": 0,
+    "crossing_slopes": [],
+    "orientation_matches_truth": false
+  },
+  {
+    "design": "passive",
+    "amplitude": 0.02,
+    "T": 5,
+    "noise_sigma": 0.01,
+    "acquisition_seed": 0,
+    "budget": 4096,
+    "dictionary_rank": 13,
+    "crossings": [
+      0.07011197793821158
+    ],
+    "crossing_error": 0.07011197793821158,
+    "root_failures": 0,
+    "crossing_slopes": [
+      0.033184723356293605
+    ],
+    "orientation_matches_truth": true
+  },
+  {
+    "design": "passive",
+    "amplitude": 0.02,
+    "T": 5,
+    "noise_sigma": 0.01,
+    "acquisition_seed": 1,
+    "budget": 4096,
+    "dictionary_rank": 13,
+    "crossings": [
+      -0.012820901980970006
+    ],
+    "crossing_error": 0.012820901980970006,
+    "root_failures": 0,
+    "crossing_slopes": [
+      0.025594796639042044
+    ],
+    "orientation_matches_truth": true
+  },
+  {
+    "design": "passive",
+    "amplitude": 0.02,
+    "T": 5,
+    "noise_sigma": 0.01,
+    "acquisition_seed": 2,
+    "budget": 4096,
+    "dictionary_rank": 13,
+    "crossings": [
+      0.10767999821652711
+    ],
+    "crossing_error": 0.10767999821652711,
+    "root_failures": 0,
+    "crossing_slopes": [
+      0.0029489096170162705
+    ],
+    "orientation_matches_truth": true
+  },
+  {
+    "design": "passive",
+    "amplitude": 0.02,
+    "T": 5,
+    "noise_sigma": 0.01,
+    "acquisition_seed": 3,
+    "budget": 4096,
+    "dictionary_rank": 13,
+    "crossings": [
+      0.009951412198122418
+    ],
+    "crossing_error": 0.009951412198122418,
+    "root_failures": 0,
+    "crossing_slopes": [
+      0.032680937017497656
+    ],
+    "orientation_matches_truth": true
+  },
+  {
+    "design": "passive",
+    "amplitude": 0.02,
+    "T": 5,
+    "noise_sigma": 0.01,
+    "acquisition_seed": 4,
+    "budget": 4096,
+    "dictionary_rank": 13,
+    "crossings": [
+      -0.006795405998390518
+    ],
+    "crossing_error": 0.006795405998390518,
+    "root_failures": 0,
+    "crossing_slopes": [
+      -0.05486602245533683
+    ],
+    "orientation_matches_truth": false
+  },
+  {
+    "design": "passive",
+    "amplitude": 0.02,
+    "T": 5,
+    "noise_sigma": 0.05,
+    "acquisition_seed": 0,
+    "budget": 4096,
+    "dictionary_rank": 13,
+    "crossings": [
+      0.3705660617784313
+    ],
+    "crossing_error": 0.3705660617784313,
+    "root_failures": 0,
+    "crossing_slopes": [
+      0.029678946733904806
+    ],
+    "orientation_matches_truth": true
+  },
+  {
+    "design": "passive",
+    "amplitude": 0.02,
+    "T": 5,
+    "noise_sigma": 0.05,
+    "acquisition_seed": 1,
+    "budget": 4096,
+    "dictionary_rank": 13,
+    "crossings": [
+      -0.0801562619711396
+    ],
+    "crossing_error": 0.0801562619711396,
+    "root_failures": 0,
+    "crossing_slopes": [
+      0.0740177476870246
+    ],
+    "orientation_matches_truth": true
+  },
+  {
+    "design": "passive",
+    "amplitude": 0.02,
+    "T": 5,
+    "noise_sigma": 0.05,
+    "acquisition_seed": 2,
+    "budget": 4096,
+    "dictionary_rank": 13,
+    "crossings": [
+      -0.10505254392876405
+    ],
+    "crossing_error": 0.10505254392876405,
+    "root_failures": 0,
+    "crossing_slopes": [
+      0.04464608337664127
+    ],
+    "orientation_matches_truth": true
+  },
+  {
+    "design": "passive",
+    "amplitude": 0.02,
+    "T": 5,
+    "noise_sigma": 0.05,
+    "acquisition_seed": 3,
+    "budget": 4096,
+    "dictionary_rank": 13,
+    "crossings": [
+      -0.0715996365887246
+    ],
+    "crossing_error": 0.0715996365887246,
+    "root_failures": 0,
+    "crossing_slopes": [
+      -0.04654261221825189
+    ],
+    "orientation_matches_truth": false
+  },
+  {
+    "design": "passive",
+    "amplitude": 0.02,
+    "T": 5,
+    "noise_sigma": 0.05,
+    "acquisition_seed": 4,
+    "budget": 4096,
+    "dictionary_rank": 13,
+    "crossings": [
+      -0.17356580130319918
+    ],
+    "crossing_error": 0.17356580130319918,
+    "root_failures": 0,
+    "crossing_slopes": [
+      -0.04818841436932466
+    ],
+    "orientation_matches_truth": false
+  },
+  {
+    "design": "passive",
+    "amplitude": 0.02,
+    "T": 20,
+    "noise_sigma": 0,
+    "acquisition_seed": 0,
+    "budget": 4096,
+    "dictionary_rank": 11,
+    "crossings": [],
+    "crossing_error": null,
+    "root_failures": 0,
+    "crossing_slopes": [],
+    "orientation_matches_truth": false
+  },
+  {
+    "design": "passive",
+    "amplitude": 0.02,
+    "T": 20,
+    "noise_sigma": 0,
+    "acquisition_seed": 1,
+    "budget": 4096,
+    "dictionary_rank": 11,
+    "crossings": [
+      0.08275442151163079
+    ],
+    "crossing_error": 0.08275442151163079,
+    "root_failures": 0,
+    "crossing_slopes": [
+      1.2384074639794268e-11
+    ],
+    "orientation_matches_truth": true
+  },
+  {
+    "design": "passive",
+    "amplitude": 0.02,
+    "T": 20,
+    "noise_sigma": 0,
+    "acquisition_seed": 2,
+    "budget": 4096,
+    "dictionary_rank": 11,
+    "crossings": [],
+    "crossing_error": null,
+    "root_failures": 0,
+    "crossing_slopes": [],
+    "orientation_matches_truth": false
+  },
+  {
+    "design": "passive",
+    "amplitude": 0.02,
+    "T": 20,
+    "noise_sigma": 0,
+    "acquisition_seed": 3,
+    "budget": 4096,
+    "dictionary_rank": 11,
+    "crossings": [],
+    "crossing_error": null,
+    "root_failures": 0,
+    "crossing_slopes": [],
+    "orientation_matches_truth": false
+  },
+  {
+    "design": "passive",
+    "amplitude": 0.02,
+    "T": 20,
+    "noise_sigma": 0,
+    "acquisition_seed": 4,
+    "budget": 4096,
+    "dictionary_rank": 11,
+    "crossings": [
+      -0.16227989691219444
+    ],
+    "crossing_error": 0.16227989691219444,
+    "root_failures": 0,
+    "crossing_slopes": [
+      4.335519751423702e-12
+    ],
+    "orientation_matches_truth": true
+  },
+  {
+    "design": "passive",
+    "amplitude": 0.02,
+    "T": 20,
+    "noise_sigma": 0.01,
+    "acquisition_seed": 0,
+    "budget": 4096,
+    "dictionary_rank": 13,
+    "crossings": [
+      0.024885007601643024
+    ],
+    "crossing_error": 0.024885007601643024,
+    "root_failures": 0,
+    "crossing_slopes": [
+      0.0016034366981463718
+    ],
+    "orientation_matches_truth": true
+  },
+  {
+    "design": "passive",
+    "amplitude": 0.02,
+    "T": 20,
+    "noise_sigma": 0.01,
+    "acquisition_seed": 1,
+    "budget": 4096,
+    "dictionary_rank": 13,
+    "crossings": [
+      -0.03162647078275846
+    ],
+    "crossing_error": 0.03162647078275846,
+    "root_failures": 0,
+    "crossing_slopes": [
+      0.024078958307441722
+    ],
+    "orientation_matches_truth": true
+  },
+  {
+    "design": "passive",
+    "amplitude": 0.02,
+    "T": 20,
+    "noise_sigma": 0.01,
+    "acquisition_seed": 2,
+    "budget": 4096,
+    "dictionary_rank": 13,
+    "crossings": [
+      -0.071593795426362
+    ],
+    "crossing_error": 0.071593795426362,
+    "root_failures": 0,
+    "crossing_slopes": [
+      -0.012053993844870698
+    ],
+    "orientation_matches_truth": false
+  },
+  {
+    "design": "passive",
+    "amplitude": 0.02,
+    "T": 20,
+    "noise_sigma": 0.01,
+    "acquisition_seed": 3,
+    "budget": 4096,
+    "dictionary_rank": 13,
+    "crossings": [
+      0.014416020834875603
+    ],
+    "crossing_error": 0.014416020834875603,
+    "root_failures": 0,
+    "crossing_slopes": [
+      -0.02081194587781783
+    ],
+    "orientation_matches_truth": false
+  },
+  {
+    "design": "passive",
+    "amplitude": 0.02,
+    "T": 20,
+    "noise_sigma": 0.01,
+    "acquisition_seed": 4,
+    "budget": 4096,
+    "dictionary_rank": 13,
+    "crossings": [
+      -0.003104377526598895
+    ],
+    "crossing_error": 0.003104377526598895,
+    "root_failures": 0,
+    "crossing_slopes": [
+      -0.020383354931577738
+    ],
+    "orientation_matches_truth": false
+  },
+  {
+    "design": "passive",
+    "amplitude": 0.02,
+    "T": 20,
+    "noise_sigma": 0.05,
+    "acquisition_seed": 0,
+    "budget": 4096,
+    "dictionary_rank": 13,
+    "crossings": [
+      0.26960953786066333
+    ],
+    "crossing_error": 0.26960953786066333,
+    "root_failures": 0,
+    "crossing_slopes": [
+      0.0030868165331113247
+    ],
+    "orientation_matches_truth": true
+  },
+  {
+    "design": "passive",
+    "amplitude": 0.02,
+    "T": 20,
+    "noise_sigma": 0.05,
+    "acquisition_seed": 1,
+    "budget": 4096,
+    "dictionary_rank": 13,
+    "crossings": [
+      -0.16922052343335728
+    ],
+    "crossing_error": 0.16922052343335728,
+    "root_failures": 0,
+    "crossing_slopes": [
+      0.019725659042638122
+    ],
+    "orientation_matches_truth": true
+  },
+  {
+    "design": "passive",
+    "amplitude": 0.02,
+    "T": 20,
+    "noise_sigma": 0.05,
+    "acquisition_seed": 2,
+    "budget": 4096,
+    "dictionary_rank": 13,
+    "crossings": [],
+    "crossing_error": null,
+    "root_failures": 0,
+    "crossing_slopes": [],
+    "orientation_matches_truth": false
+  },
+  {
+    "design": "passive",
+    "amplitude": 0.02,
+    "T": 20,
+    "noise_sigma": 0.05,
+    "acquisition_seed": 3,
+    "budget": 4096,
+    "dictionary_rank": 13,
+    "crossings": [
+      0.03017971010727984
+    ],
+    "crossing_error": 0.03017971010727984,
+    "root_failures": 0,
+    "crossing_slopes": [
+      -0.021024102120543488
+    ],
+    "orientation_matches_truth": false
+  },
+  {
+    "design": "passive",
+    "amplitude": 0.02,
+    "T": 20,
+    "noise_sigma": 0.05,
+    "acquisition_seed": 4,
+    "budget": 4096,
+    "dictionary_rank": 13,
+    "crossings": [
+      -0.13988024724349993
+    ],
+    "crossing_error": 0.13988024724349993,
+    "root_failures": 0,
+    "crossing_slopes": [
+      -0.018011349173577273
+    ],
+    "orientation_matches_truth": false
+  },
+  {
+    "design": "random",
+    "amplitude": 0.02,
+    "T": 5,
+    "noise_sigma": 0,
+    "acquisition_seed": 0,
+    "budget": 4096,
+    "dictionary_rank": 13,
+    "crossings": [
+      1.3313139547693021e-05
+    ],
+    "crossing_error": 1.3313139547693021e-05,
+    "root_failures": 0,
+    "crossing_slopes": [
+      0.9998969372158867
+    ],
+    "orientation_matches_truth": true
+  },
+  {
+    "design": "random",
+    "amplitude": 0.02,
+    "T": 5,
+    "noise_sigma": 0,
+    "acquisition_seed": 1,
+    "budget": 4096,
+    "dictionary_rank": 13,
+    "crossings": [
+      1.210209593212482e-05
+    ],
+    "crossing_error": 1.210209593212482e-05,
+    "root_failures": 0,
+    "crossing_slopes": [
+      0.9999262753639223
+    ],
+    "orientation_matches_truth": true
+  },
+  {
+    "design": "random",
+    "amplitude": 0.02,
+    "T": 5,
+    "noise_sigma": 0,
+    "acquisition_seed": 2,
+    "budget": 4096,
+    "dictionary_rank": 13,
+    "crossings": [
+      1.2739268616099822e-05
+    ],
+    "crossing_error": 1.2739268616099822e-05,
+    "root_failures": 0,
+    "crossing_slopes": [
+      0.999915147477383
+    ],
+    "orientation_matches_truth": true
+  },
+  {
+    "design": "random",
+    "amplitude": 0.02,
+    "T": 5,
+    "noise_sigma": 0,
+    "acquisition_seed": 3,
+    "budget": 4096,
+    "dictionary_rank": 13,
+    "crossings": [
+      1.4937999102984016e-05
+    ],
+    "crossing_error": 1.4937999102984016e-05,
+    "root_failures": 0,
+    "crossing_slopes": [
+      0.9998680573057707
+    ],
+    "orientation_matches_truth": true
+  },
+  {
+    "design": "random",
+    "amplitude": 0.02,
+    "T": 5,
+    "noise_sigma": 0,
+    "acquisition_seed": 4,
+    "budget": 4096,
+    "dictionary_rank": 13,
+    "crossings": [
+      2.2111071404100063e-05
+    ],
+    "crossing_error": 2.2111071404100063e-05,
+    "root_failures": 0,
+    "crossing_slopes": [
+      0.9998536207341995
+    ],
+    "orientation_matches_truth": true
+  },
+  {
+    "design": "random",
+    "amplitude": 0.02,
+    "T": 5,
+    "noise_sigma": 0.01,
+    "acquisition_seed": 0,
+    "budget": 4096,
+    "dictionary_rank": 13,
+    "crossings": [
+      0.012538361878366683
+    ],
+    "crossing_error": 0.012538361878366683,
+    "root_failures": 0,
+    "crossing_slopes": [
+      0.962199328236068
+    ],
+    "orientation_matches_truth": true
+  },
+  {
+    "design": "random",
+    "amplitude": 0.02,
+    "T": 5,
+    "noise_sigma": 0.01,
+    "acquisition_seed": 1,
+    "budget": 4096,
+    "dictionary_rank": 13,
+    "crossings": [
+      0.0019173753470635776
+    ],
+    "crossing_error": 0.0019173753470635776,
+    "root_failures": 0,
+    "crossing_slopes": [
+      0.9880301294999454
+    ],
+    "orientation_matches_truth": true
+  },
+  {
+    "design": "random",
+    "amplitude": 0.02,
+    "T": 5,
+    "noise_sigma": 0.01,
+    "acquisition_seed": 2,
+    "budget": 4096,
+    "dictionary_rank": 13,
+    "crossings": [
+      -0.0049644829545224985
+    ],
+    "crossing_error": 0.0049644829545224985,
+    "root_failures": 0,
+    "crossing_slopes": [
+      0.9989979490200713
+    ],
+    "orientation_matches_truth": true
+  },
+  {
+    "design": "random",
+    "amplitude": 0.02,
+    "T": 5,
+    "noise_sigma": 0.01,
+    "acquisition_seed": 3,
+    "budget": 4096,
+    "dictionary_rank": 13,
+    "crossings": [
+      0.0011758207505358396
+    ],
+    "crossing_error": 0.0011758207505358396,
+    "root_failures": 0,
+    "crossing_slopes": [
+      0.990194911542003
+    ],
+    "orientation_matches_truth": true
+  },
+  {
+    "design": "random",
+    "amplitude": 0.02,
+    "T": 5,
+    "noise_sigma": 0.01,
+    "acquisition_seed": 4,
+    "budget": 4096,
+    "dictionary_rank": 13,
+    "crossings": [
+      0.00044255068402355367
+    ],
+    "crossing_error": 0.00044255068402355367,
+    "root_failures": 0,
+    "crossing_slopes": [
+      0.9969006495896999
+    ],
+    "orientation_matches_truth": true
+  },
+  {
+    "design": "random",
+    "amplitude": 0.02,
+    "T": 5,
+    "noise_sigma": 0.05,
+    "acquisition_seed": 0,
+    "budget": 4096,
+    "dictionary_rank": 13,
+    "crossings": [
+      0.1097490390150681
+    ],
+    "crossing_error": 0.1097490390150681,
+    "root_failures": 0,
+    "crossing_slopes": [
+      0.7082439532250274
+    ],
+    "orientation_matches_truth": true
+  },
+  {
+    "design": "random",
+    "amplitude": 0.02,
+    "T": 5,
+    "noise_sigma": 0.05,
+    "acquisition_seed": 1,
+    "budget": 4096,
+    "dictionary_rank": 13,
+    "crossings": [
+      0.04583091436151389
+    ],
+    "crossing_error": 0.04583091436151389,
+    "root_failures": 0,
+    "crossing_slopes": [
+      0.7933367690653863
+    ],
+    "orientation_matches_truth": true
+  },
+  {
+    "design": "random",
+    "amplitude": 0.02,
+    "T": 5,
+    "noise_sigma": 0.05,
+    "acquisition_seed": 2,
+    "budget": 4096,
+    "dictionary_rank": 13,
+    "crossings": [
+      -0.007646291062466211
+    ],
+    "crossing_error": 0.007646291062466211,
+    "root_failures": 0,
+    "crossing_slopes": [
+      0.8508595021452201
+    ],
+    "orientation_matches_truth": true
+  },
+  {
+    "design": "random",
+    "amplitude": 0.02,
+    "T": 5,
+    "noise_sigma": 0.05,
+    "acquisition_seed": 3,
+    "budget": 4096,
+    "dictionary_rank": 13,
+    "crossings": [
+      0.04832656938206747
+    ],
+    "crossing_error": 0.04832656938206747,
+    "root_failures": 0,
+    "crossing_slopes": [
+      0.7932418406103808
+    ],
+    "orientation_matches_truth": true
+  },
+  {
+    "design": "random",
+    "amplitude": 0.02,
+    "T": 5,
+    "noise_sigma": 0.05,
+    "acquisition_seed": 4,
+    "budget": 4096,
+    "dictionary_rank": 13,
+    "crossings": [
+      0.021547491300339894
+    ],
+    "crossing_error": 0.021547491300339894,
+    "root_failures": 0,
+    "crossing_slopes": [
+      0.8687315665200637
+    ],
+    "orientation_matches_truth": true
+  },
+  {
+    "design": "random",
+    "amplitude": 0.02,
+    "T": 20,
+    "noise_sigma": 0,
+    "acquisition_seed": 0,
+    "budget": 4096,
+    "dictionary_rank": 13,
+    "crossings": [
+      0.0003680103291231154
+    ],
+    "crossing_error": 0.0003680103291231154,
+    "root_failures": 0,
+    "crossing_slopes": [
+      0.9871722270408777
+    ],
+    "orientation_matches_truth": true
+  },
+  {
+    "design": "random",
+    "amplitude": 0.02,
+    "T": 20,
+    "noise_sigma": 0,
+    "acquisition_seed": 1,
+    "budget": 4096,
+    "dictionary_rank": 13,
+    "crossings": [
+      0.0010337242041884576
+    ],
+    "crossing_error": 0.0010337242041884576,
+    "root_failures": 0,
+    "crossing_slopes": [
+      0.9787103286449894
+    ],
+    "orientation_matches_truth": true
+  },
+  {
+    "design": "random",
+    "amplitude": 0.02,
+    "T": 20,
+    "noise_sigma": 0,
+    "acquisition_seed": 2,
+    "budget": 4096,
+    "dictionary_rank": 13,
+    "crossings": [
+      0.0009503141073148847
+    ],
+    "crossing_error": 0.0009503141073148847,
+    "root_failures": 0,
+    "crossing_slopes": [
+      0.9766408884101588
+    ],
+    "orientation_matches_truth": true
+  },
+  {
+    "design": "random",
+    "amplitude": 0.02,
+    "T": 20,
+    "noise_sigma": 0,
+    "acquisition_seed": 3,
+    "budget": 4096,
+    "dictionary_rank": 13,
+    "crossings": [
+      0.0006240755598926112
+    ],
+    "crossing_error": 0.0006240755598926112,
+    "root_failures": 0,
+    "crossing_slopes": [
+      0.9826588287568409
+    ],
+    "orientation_matches_truth": true
+  },
+  {
+    "design": "random",
+    "amplitude": 0.02,
+    "T": 20,
+    "noise_sigma": 0,
+    "acquisition_seed": 4,
+    "budget": 4096,
+    "dictionary_rank": 13,
+    "crossings": [
+      0.0011060436228212218
+    ],
+    "crossing_error": 0.0011060436228212218,
+    "root_failures": 0,
+    "crossing_slopes": [
+      0.9814711161606702
+    ],
+    "orientation_matches_truth": true
+  },
+  {
+    "design": "random",
+    "amplitude": 0.02,
+    "T": 20,
+    "noise_sigma": 0.01,
+    "acquisition_seed": 0,
+    "budget": 4096,
+    "dictionary_rank": 13,
+    "crossings": [
+      0.006074360331006461
+    ],
+    "crossing_error": 0.006074360331006461,
+    "root_failures": 0,
+    "crossing_slopes": [
+      0.9102037507319279
+    ],
+    "orientation_matches_truth": true
+  },
+  {
+    "design": "random",
+    "amplitude": 0.02,
+    "T": 20,
+    "noise_sigma": 0.01,
+    "acquisition_seed": 1,
+    "budget": 4096,
+    "dictionary_rank": 13,
+    "crossings": [
+      0.003335163998863085
+    ],
+    "crossing_error": 0.003335163998863085,
+    "root_failures": 0,
+    "crossing_slopes": [
+      0.9366549546482015
+    ],
+    "orientation_matches_truth": true
+  },
+  {
+    "design": "random",
+    "amplitude": 0.02,
+    "T": 20,
+    "noise_sigma": 0.01,
+    "acquisition_seed": 2,
+    "budget": 4096,
+    "dictionary_rank": 13,
+    "crossings": [
+      0.0022699982717132978
+    ],
+    "crossing_error": 0.0022699982717132978,
+    "root_failures": 0,
+    "crossing_slopes": [
+      0.9270492086194516
+    ],
+    "orientation_matches_truth": true
+  },
+  {
+    "design": "random",
+    "amplitude": 0.02,
+    "T": 20,
+    "noise_sigma": 0.01,
+    "acquisition_seed": 3,
+    "budget": 4096,
+    "dictionary_rank": 13,
+    "crossings": [
+      0.004528189689460728
+    ],
+    "crossing_error": 0.004528189689460728,
+    "root_failures": 0,
+    "crossing_slopes": [
+      0.937639796929116
+    ],
+    "orientation_matches_truth": true
+  },
+  {
+    "design": "random",
+    "amplitude": 0.02,
+    "T": 20,
+    "noise_sigma": 0.01,
+    "acquisition_seed": 4,
+    "budget": 4096,
+    "dictionary_rank": 13,
+    "crossings": [
+      0.003261987155708654
+    ],
+    "crossing_error": 0.003261987155708654,
+    "root_failures": 0,
+    "crossing_slopes": [
+      0.9383180860819119
+    ],
+    "orientation_matches_truth": true
+  },
+  {
+    "design": "random",
+    "amplitude": 0.02,
+    "T": 20,
+    "noise_sigma": 0.05,
+    "acquisition_seed": 0,
+    "budget": 4096,
+    "dictionary_rank": 13,
+    "crossings": [
+      0.08573717570928781
+    ],
+    "crossing_error": 0.08573717570928781,
+    "root_failures": 0,
+    "crossing_slopes": [
+      0.3634443421659172
+    ],
+    "orientation_matches_truth": true
+  },
+  {
+    "design": "random",
+    "amplitude": 0.02,
+    "T": 20,
+    "noise_sigma": 0.05,
+    "acquisition_seed": 1,
+    "budget": 4096,
+    "dictionary_rank": 13,
+    "crossings": [
+      0.023463460873357173
+    ],
+    "crossing_error": 0.023463460873357173,
+    "root_failures": 0,
+    "crossing_slopes": [
+      0.4669733209646757
+    ],
+    "orientation_matches_truth": true
+  },
+  {
+    "design": "random",
+    "amplitude": 0.02,
+    "T": 20,
+    "noise_sigma": 0.05,
+    "acquisition_seed": 2,
+    "budget": 4096,
+    "dictionary_rank": 13,
+    "crossings": [
+      0.028419142429934915
+    ],
+    "crossing_error": 0.028419142429934915,
+    "root_failures": 0,
+    "crossing_slopes": [
+      0.39940208248073755
+    ],
+    "orientation_matches_truth": true
+  },
+  {
+    "design": "random",
+    "amplitude": 0.02,
+    "T": 20,
+    "noise_sigma": 0.05,
+    "acquisition_seed": 3,
+    "budget": 4096,
+    "dictionary_rank": 13,
+    "crossings": [
+      0.05506755014272423
+    ],
+    "crossing_error": 0.05506755014272423,
+    "root_failures": 0,
+    "crossing_slopes": [
+      0.431532527100085
+    ],
+    "orientation_matches_truth": true
+  },
+  {
+    "design": "random",
+    "amplitude": 0.02,
+    "T": 20,
+    "noise_sigma": 0.05,
+    "acquisition_seed": 4,
+    "budget": 4096,
+    "dictionary_rank": 13,
+    "crossings": [
+      0.032062920688989464
+    ],
+    "crossing_error": 0.032062920688989464,
+    "root_failures": 0,
+    "crossing_slopes": [
+      0.4608332883886058
+    ],
+    "orientation_matches_truth": true
+  },
+  {
+    "design": "probe",
+    "amplitude": 0.005,
+    "T": 5,
+    "noise_sigma": 0,
+    "acquisition_seed": 0,
+    "budget": 4096,
+    "dictionary_rank": 13,
+    "crossings": [
+      -4.7502712445060425e-09
+    ],
+    "crossing_error": 4.7502712445060425e-09,
+    "root_failures": 0,
+    "crossing_slopes": [
+      0.9999486749986812
+    ],
+    "orientation_matches_truth": true
+  },
+  {
+    "design": "probe",
+    "amplitude": 0.005,
+    "T": 5,
+    "noise_sigma": 0,
+    "acquisition_seed": 1,
+    "budget": 4096,
+    "dictionary_rank": 13,
+    "crossings": [
+      -2.675414519940231e-09
+    ],
+    "crossing_error": 2.675414519940231e-09,
+    "root_failures": 0,
+    "crossing_slopes": [
+      0.9999507666109171
+    ],
+    "orientation_matches_truth": true
+  },
+  {
+    "design": "probe",
+    "amplitude": 0.005,
+    "T": 5,
+    "noise_sigma": 0,
+    "acquisition_seed": 2,
+    "budget": 4096,
+    "dictionary_rank": 13,
+    "crossings": [
+      -1.1315067258071843e-08
+    ],
+    "crossing_error": 1.1315067258071843e-08,
+    "root_failures": 0,
+    "crossing_slopes": [
+      0.9999507476435022
+    ],
+    "orientation_matches_truth": true
+  },
+  {
+    "design": "probe",
+    "amplitude": 0.005,
+    "T": 5,
+    "noise_sigma": 0,
+    "acquisition_seed": 3,
+    "budget": 4096,
+    "dictionary_rank": 13,
+    "crossings": [
+      -5.257708136187512e-09
+    ],
+    "crossing_error": 5.257708136187512e-09,
+    "root_failures": 0,
+    "crossing_slopes": [
+      0.999948882121804
+    ],
+    "orientation_matches_truth": true
+  },
+  {
+    "design": "probe",
+    "amplitude": 0.005,
+    "T": 5,
+    "noise_sigma": 0,
+    "acquisition_seed": 4,
+    "budget": 4096,
+    "dictionary_rank": 13,
+    "crossings": [
+      3.991331836936648e-09
+    ],
+    "crossing_error": 3.991331836936648e-09,
+    "root_failures": 0,
+    "crossing_slopes": [
+      0.9999475064324467
+    ],
+    "orientation_matches_truth": true
+  },
+  {
+    "design": "probe",
+    "amplitude": 0.005,
+    "T": 5,
+    "noise_sigma": 0.01,
+    "acquisition_seed": 0,
+    "budget": 4096,
+    "dictionary_rank": 13,
+    "crossings": [
+      0.03863117888819418
+    ],
+    "crossing_error": 0.03863117888819418,
+    "root_failures": 0,
+    "crossing_slopes": [
+      0.055689441729594995
+    ],
+    "orientation_matches_truth": true
+  },
+  {
+    "design": "probe",
+    "amplitude": 0.005,
+    "T": 5,
+    "noise_sigma": 0.01,
+    "acquisition_seed": 1,
+    "budget": 4096,
+    "dictionary_rank": 13,
+    "crossings": [
+      -0.0028449825289451384
+    ],
+    "crossing_error": 0.0028449825289451384,
+    "root_failures": 0,
+    "crossing_slopes": [
+      0.06930770121423059
+    ],
+    "orientation_matches_truth": true
+  },
+  {
+    "design": "probe",
+    "amplitude": 0.005,
+    "T": 5,
+    "noise_sigma": 0.01,
+    "acquisition_seed": 2,
+    "budget": 4096,
+    "dictionary_rank": 13,
+    "crossings": [
+      0.014008989220115103
+    ],
+    "crossing_error": 0.014008989220115103,
+    "root_failures": 0,
+    "crossing_slopes": [
+      0.030059920597233673
+    ],
+    "orientation_matches_truth": true
+  },
+  {
+    "design": "probe",
+    "amplitude": 0.005,
+    "T": 5,
+    "noise_sigma": 0.01,
+    "acquisition_seed": 3,
+    "budget": 4096,
+    "dictionary_rank": 13,
+    "crossings": [
+      0.005175456117221363
+    ],
+    "crossing_error": 0.005175456117221363,
+    "root_failures": 0,
+    "crossing_slopes": [
+      0.05790585370798149
+    ],
+    "orientation_matches_truth": true
+  },
+  {
+    "design": "probe",
+    "amplitude": 0.005,
+    "T": 5,
+    "noise_sigma": 0.01,
+    "acquisition_seed": 4,
+    "budget": 4096,
+    "dictionary_rank": 13,
+    "crossings": [
+      -0.011475987231062277
+    ],
+    "crossing_error": 0.011475987231062277,
+    "root_failures": 0,
+    "crossing_slopes": [
+      -0.0529019397992091
+    ],
+    "orientation_matches_truth": false
+  },
+  {
+    "design": "probe",
+    "amplitude": 0.005,
+    "T": 5,
+    "noise_sigma": 0.05,
+    "acquisition_seed": 0,
+    "budget": 4096,
+    "dictionary_rank": 13,
+    "crossings": [
+      0.3567898893732746
+    ],
+    "crossing_error": 0.3567898893732746,
+    "root_failures": 0,
+    "crossing_slopes": [
+      0.03080861191023798
+    ],
+    "orientation_matches_truth": true
+  },
+  {
+    "design": "probe",
+    "amplitude": 0.005,
+    "T": 5,
+    "noise_sigma": 0.05,
+    "acquisition_seed": 1,
+    "budget": 4096,
+    "dictionary_rank": 13,
+    "crossings": [
+      -0.07489176445171984
+    ],
+    "crossing_error": 0.07489176445171984,
+    "root_failures": 0,
+    "crossing_slopes": [
+      0.07870108309776326
+    ],
+    "orientation_matches_truth": true
+  },
+  {
+    "design": "probe",
+    "amplitude": 0.005,
+    "T": 5,
+    "noise_sigma": 0.05,
+    "acquisition_seed": 2,
+    "budget": 4096,
+    "dictionary_rank": 13,
+    "crossings": [
+      -0.09412472199385964
+    ],
+    "crossing_error": 0.09412472199385964,
+    "root_failures": 0,
+    "crossing_slopes": [
+      0.04585890033747749
+    ],
+    "orientation_matches_truth": true
+  },
+  {
+    "design": "probe",
+    "amplitude": 0.005,
+    "T": 5,
+    "noise_sigma": 0.05,
+    "acquisition_seed": 3,
+    "budget": 4096,
+    "dictionary_rank": 13,
+    "crossings": [
+      -0.06715055103317347
+    ],
+    "crossing_error": 0.06715055103317347,
+    "root_failures": 0,
+    "crossing_slopes": [
+      -0.04704646697772929
+    ],
+    "orientation_matches_truth": false
+  },
+  {
+    "design": "probe",
+    "amplitude": 0.005,
+    "T": 5,
+    "noise_sigma": 0.05,
+    "acquisition_seed": 4,
+    "budget": 4096,
+    "dictionary_rank": 13,
+    "crossings": [
+      -0.1662350503123751
+    ],
+    "crossing_error": 0.1662350503123751,
+    "root_failures": 0,
+    "crossing_slopes": [
+      -0.05144087785284578
+    ],
+    "orientation_matches_truth": false
+  },
+  {
+    "design": "probe",
+    "amplitude": 0.005,
+    "T": 20,
+    "noise_sigma": 0,
+    "acquisition_seed": 0,
+    "budget": 4096,
+    "dictionary_rank": 13,
+    "crossings": [
+      2.8570054637897986e-08
+    ],
+    "crossing_error": 2.8570054637897986e-08,
+    "root_failures": 0,
+    "crossing_slopes": [
+      0.9820070738169329
+    ],
+    "orientation_matches_truth": true
+  },
+  {
+    "design": "probe",
+    "amplitude": 0.005,
+    "T": 20,
+    "noise_sigma": 0,
+    "acquisition_seed": 1,
+    "budget": 4096,
+    "dictionary_rank": 13,
+    "crossings": [
+      -8.086370818934678e-08
+    ],
+    "crossing_error": 8.086370818934678e-08,
+    "root_failures": 0,
+    "crossing_slopes": [
+      0.9821503542234116
+    ],
+    "orientation_matches_truth": true
+  },
+  {
+    "design": "probe",
+    "amplitude": 0.005,
+    "T": 20,
+    "noise_sigma": 0,
+    "acquisition_seed": 2,
+    "budget": 4096,
+    "dictionary_rank": 13,
+    "crossings": [
+      -8.950502493682943e-08
+    ],
+    "crossing_error": 8.950502493682943e-08,
+    "root_failures": 0,
+    "crossing_slopes": [
+      0.9821651069887635
+    ],
+    "orientation_matches_truth": true
+  },
+  {
+    "design": "probe",
+    "amplitude": 0.005,
+    "T": 20,
+    "noise_sigma": 0,
+    "acquisition_seed": 3,
+    "budget": 4096,
+    "dictionary_rank": 13,
+    "crossings": [
+      -9.386707274994569e-08
+    ],
+    "crossing_error": 9.386707274994569e-08,
+    "root_failures": 0,
+    "crossing_slopes": [
+      0.9819551526388661
+    ],
+    "orientation_matches_truth": true
+  },
+  {
+    "design": "probe",
+    "amplitude": 0.005,
+    "T": 20,
+    "noise_sigma": 0,
+    "acquisition_seed": 4,
+    "budget": 4096,
+    "dictionary_rank": 13,
+    "crossings": [
+      2.5117869133389175e-08
+    ],
+    "crossing_error": 2.5117869133389175e-08,
+    "root_failures": 0,
+    "crossing_slopes": [
+      0.982025372191871
+    ],
+    "orientation_matches_truth": true
+  },
+  {
+    "design": "probe",
+    "amplitude": 0.005,
+    "T": 20,
+    "noise_sigma": 0.01,
+    "acquisition_seed": 0,
+    "budget": 4096,
+    "dictionary_rank": 13,
+    "crossings": [
+      0.007800999936308823
+    ],
+    "crossing_error": 0.007800999936308823,
+    "root_failures": 0,
+    "crossing_slopes": [
+      0.007519141344270157
+    ],
+    "orientation_matches_truth": true
+  },
+  {
+    "design": "probe",
+    "amplitude": 0.005,
+    "T": 20,
+    "noise_sigma": 0.01,
+    "acquisition_seed": 1,
+    "budget": 4096,
+    "dictionary_rank": 13,
+    "crossings": [
+      -0.027298594389312814
+    ],
+    "crossing_error": 0.027298594389312814,
+    "root_failures": 0,
+    "crossing_slopes": [
+      0.027456020116047527
+    ],
+    "orientation_matches_truth": true
+  },
+  {
+    "design": "probe",
+    "amplitude": 0.005,
+    "T": 20,
+    "noise_sigma": 0.01,
+    "acquisition_seed": 2,
+    "budget": 4096,
+    "dictionary_rank": 13,
+    "crossings": [
+      -0.09714116455787113
+    ],
+    "crossing_error": 0.09714116455787113,
+    "root_failures": 0,
+    "crossing_slopes": [
+      -0.008955744881228148
+    ],
+    "orientation_matches_truth": false
+  },
+  {
+    "design": "probe",
+    "amplitude": 0.005,
+    "T": 20,
+    "noise_sigma": 0.01,
+    "acquisition_seed": 3,
+    "budget": 4096,
+    "dictionary_rank": 13,
+    "crossings": [
+      0.02102490821291286
+    ],
+    "crossing_error": 0.02102490821291286,
+    "root_failures": 0,
+    "crossing_slopes": [
+      -0.014604678923944282
+    ],
+    "orientation_matches_truth": false
+  },
+  {
+    "design": "probe",
+    "amplitude": 0.005,
+    "T": 20,
+    "noise_sigma": 0.01,
+    "acquisition_seed": 4,
+    "budget": 4096,
+    "dictionary_rank": 13,
+    "crossings": [
+      -0.00342711762667656
+    ],
+    "crossing_error": 0.00342711762667656,
+    "root_failures": 0,
+    "crossing_slopes": [
+      -0.022682265784276092
+    ],
+    "orientation_matches_truth": false
+  },
+  {
+    "design": "probe",
+    "amplitude": 0.005,
+    "T": 20,
+    "noise_sigma": 0.05,
+    "acquisition_seed": 0,
+    "budget": 4096,
+    "dictionary_rank": 13,
+    "crossings": [
+      0.23624098967543944
+    ],
+    "crossing_error": 0.23624098967543944,
+    "root_failures": 0,
+    "crossing_slopes": [
+      0.003573368146216407
+    ],
+    "orientation_matches_truth": true
+  },
+  {
+    "design": "probe",
+    "amplitude": 0.005,
+    "T": 20,
+    "noise_sigma": 0.05,
+    "acquisition_seed": 1,
+    "budget": 4096,
+    "dictionary_rank": 13,
+    "crossings": [
+      -0.1671277413568726
+    ],
+    "crossing_error": 0.1671277413568726,
+    "root_failures": 0,
+    "crossing_slopes": [
+      0.019943952377185926
+    ],
+    "orientation_matches_truth": true
+  },
+  {
+    "design": "probe",
+    "amplitude": 0.005,
+    "T": 20,
+    "noise_sigma": 0.05,
+    "acquisition_seed": 2,
+    "budget": 4096,
+    "dictionary_rank": 13,
+    "crossings": [],
+    "crossing_error": null,
+    "root_failures": 0,
+    "crossing_slopes": [],
+    "orientation_matches_truth": false
+  },
+  {
+    "design": "probe",
+    "amplitude": 0.005,
+    "T": 20,
+    "noise_sigma": 0.05,
+    "acquisition_seed": 3,
+    "budget": 4096,
+    "dictionary_rank": 13,
+    "crossings": [
+      0.03285204445788272
+    ],
+    "crossing_error": 0.03285204445788272,
+    "root_failures": 0,
+    "crossing_slopes": [
+      -0.020504947461762874
+    ],
+    "orientation_matches_truth": false
+  },
+  {
+    "design": "probe",
+    "amplitude": 0.005,
+    "T": 20,
+    "noise_sigma": 0.05,
+    "acquisition_seed": 4,
+    "budget": 4096,
+    "dictionary_rank": 13,
+    "crossings": [
+      -0.13316102368560653
+    ],
+    "crossing_error": 0.13316102368560653,
+    "root_failures": 0,
+    "crossing_slopes": [
+      -0.018883141888938887
+    ],
+    "orientation_matches_truth": false
+  },
+  {
+    "design": "probe",
+    "amplitude": 0.02,
+    "T": 5,
+    "noise_sigma": 0,
+    "acquisition_seed": 0,
+    "budget": 4096,
+    "dictionary_rank": 13,
+    "crossings": [
+      -9.354953898347338e-08
+    ],
+    "crossing_error": 9.354953898347338e-08,
+    "root_failures": 0,
+    "crossing_slopes": [
+      0.9999480961704412
+    ],
+    "orientation_matches_truth": true
+  },
+  {
+    "design": "probe",
+    "amplitude": 0.02,
+    "T": 5,
+    "noise_sigma": 0,
+    "acquisition_seed": 1,
+    "budget": 4096,
+    "dictionary_rank": 13,
+    "crossings": [
+      -1.0748235862990236e-07
+    ],
+    "crossing_error": 1.0748235862990236e-07,
+    "root_failures": 0,
+    "crossing_slopes": [
+      0.9999511292137666
+    ],
+    "orientation_matches_truth": true
+  },
+  {
+    "design": "probe",
+    "amplitude": 0.02,
+    "T": 5,
+    "noise_sigma": 0,
+    "acquisition_seed": 2,
+    "budget": 4096,
+    "dictionary_rank": 13,
+    "crossings": [
+      -1.2375525231051336e-07
+    ],
+    "crossing_error": 1.2375525231051336e-07,
+    "root_failures": 0,
+    "crossing_slopes": [
+      0.9999503510617396
+    ],
+    "orientation_matches_truth": true
+  },
+  {
+    "design": "probe",
+    "amplitude": 0.02,
+    "T": 5,
+    "noise_sigma": 0,
+    "acquisition_seed": 3,
+    "budget": 4096,
+    "dictionary_rank": 13,
+    "crossings": [
+      -1.0951593535577866e-07
+    ],
+    "crossing_error": 1.0951593535577866e-07,
+    "root_failures": 0,
+    "crossing_slopes": [
+      0.9999489416502219
+    ],
+    "orientation_matches_truth": true
+  },
+  {
+    "design": "probe",
+    "amplitude": 0.02,
+    "T": 5,
+    "noise_sigma": 0,
+    "acquisition_seed": 4,
+    "budget": 4096,
+    "dictionary_rank": 13,
+    "crossings": [
+      -6.824316324504623e-08
+    ],
+    "crossing_error": 6.824316324504623e-08,
+    "root_failures": 0,
+    "crossing_slopes": [
+      0.9999473575091284
+    ],
+    "orientation_matches_truth": true
+  },
+  {
+    "design": "probe",
+    "amplitude": 0.02,
+    "T": 5,
+    "noise_sigma": 0.01,
+    "acquisition_seed": 0,
+    "budget": 4096,
+    "dictionary_rank": 13,
+    "crossings": [
+      0.00607506965871944
+    ],
+    "crossing_error": 0.00607506965871944,
+    "root_failures": 0,
+    "crossing_slopes": [
+      0.32473084974715505
+    ],
+    "orientation_matches_truth": true
+  },
+  {
+    "design": "probe",
+    "amplitude": 0.02,
+    "T": 5,
+    "noise_sigma": 0.01,
+    "acquisition_seed": 1,
+    "budget": 4096,
+    "dictionary_rank": 13,
+    "crossings": [
+      0.00015381915781879438
+    ],
+    "crossing_error": 0.00015381915781879438,
+    "root_failures": 0,
+    "crossing_slopes": [
+      0.37103566712678815
+    ],
+    "orientation_matches_truth": true
+  },
+  {
+    "design": "probe",
+    "amplitude": 0.02,
+    "T": 5,
+    "noise_sigma": 0.01,
+    "acquisition_seed": 2,
+    "budget": 4096,
+    "dictionary_rank": 13,
+    "crossings": [
+      0.0030467924282276946
+    ],
+    "crossing_error": 0.0030467924282276946,
+    "root_failures": 0,
+    "crossing_slopes": [
+      0.3141029068123033
+    ],
+    "orientation_matches_truth": true
+  },
+  {
+    "design": "probe",
+    "amplitude": 0.02,
+    "T": 5,
+    "noise_sigma": 0.01,
+    "acquisition_seed": 3,
+    "budget": 4096,
+    "dictionary_rank": 13,
+    "crossings": [
+      0.0012798944501598683
+    ],
+    "crossing_error": 0.0012798944501598683,
+    "root_failures": 0,
+    "crossing_slopes": [
+      0.33483733975101454
+    ],
+    "orientation_matches_truth": true
+  },
+  {
+    "design": "probe",
+    "amplitude": 0.02,
+    "T": 5,
+    "noise_sigma": 0.01,
+    "acquisition_seed": 4,
+    "budget": 4096,
+    "dictionary_rank": 13,
+    "crossings": [
+      0.007462893601141279
+    ],
+    "crossing_error": 0.007462893601141279,
+    "root_failures": 0,
+    "crossing_slopes": [
+      0.19472101876333844
+    ],
+    "orientation_matches_truth": true
+  },
+  {
+    "design": "probe",
+    "amplitude": 0.02,
+    "T": 5,
+    "noise_sigma": 0.05,
+    "acquisition_seed": 0,
+    "budget": 4096,
+    "dictionary_rank": 13,
+    "crossings": [
+      0.2347322513221471
+    ],
+    "crossing_error": 0.2347322513221471,
+    "root_failures": 0,
+    "crossing_slopes": [
+      0.04741209103063803
+    ],
+    "orientation_matches_truth": true
+  },
+  {
+    "design": "probe",
+    "amplitude": 0.02,
+    "T": 5,
+    "noise_sigma": 0.05,
+    "acquisition_seed": 1,
+    "budget": 4096,
+    "dictionary_rank": 13,
+    "crossings": [
+      -0.05363376748759735
+    ],
+    "crossing_error": 0.05363376748759735,
+    "root_failures": 0,
+    "crossing_slopes": [
+      0.10429828715297507
+    ],
+    "orientation_matches_truth": true
+  },
+  {
+    "design": "probe",
+    "amplitude": 0.02,
+    "T": 5,
+    "noise_sigma": 0.05,
+    "acquisition_seed": 2,
+    "budget": 4096,
+    "dictionary_rank": 13,
+    "crossings": [
+      -0.04647494702410748
+    ],
+    "crossing_error": 0.04647494702410748,
+    "root_failures": 0,
+    "crossing_slopes": [
+      0.06223200711627518
+    ],
+    "orientation_matches_truth": true
+  },
+  {
+    "design": "probe",
+    "amplitude": 0.02,
+    "T": 5,
+    "noise_sigma": 0.05,
+    "acquisition_seed": 3,
+    "budget": 4096,
+    "dictionary_rank": 13,
+    "crossings": [
+      -0.08271441563019413
+    ],
+    "crossing_error": 0.08271441563019413,
+    "root_failures": 0,
+    "crossing_slopes": [
+      -0.03386909703893132
+    ],
+    "orientation_matches_truth": false
+  },
+  {
+    "design": "probe",
+    "amplitude": 0.02,
+    "T": 5,
+    "noise_sigma": 0.05,
+    "acquisition_seed": 4,
+    "budget": 4096,
+    "dictionary_rank": 13,
+    "crossings": [
+      -0.20015715103129736
+    ],
+    "crossing_error": 0.20015715103129736,
+    "root_failures": 0,
+    "crossing_slopes": [
+      -0.04766067535702522
+    ],
+    "orientation_matches_truth": false
+  },
+  {
+    "design": "probe",
+    "amplitude": 0.02,
+    "T": 20,
+    "noise_sigma": 0,
+    "acquisition_seed": 0,
+    "budget": 4096,
+    "dictionary_rank": 13,
+    "crossings": [
+      -5.982951313304317e-07
+    ],
+    "crossing_error": 5.982951313304317e-07,
+    "root_failures": 0,
+    "crossing_slopes": [
+      0.9819844070357996
+    ],
+    "orientation_matches_truth": true
+  },
+  {
+    "design": "probe",
+    "amplitude": 0.02,
+    "T": 20,
+    "noise_sigma": 0,
+    "acquisition_seed": 1,
+    "budget": 4096,
+    "dictionary_rank": 13,
+    "crossings": [
+      -1.1481674839026148e-06
+    ],
+    "crossing_error": 1.1481674839026148e-06,
+    "root_failures": 0,
+    "crossing_slopes": [
+      0.9821359516244612
+    ],
+    "orientation_matches_truth": true
+  },
+  {
+    "design": "probe",
+    "amplitude": 0.02,
+    "T": 20,
+    "noise_sigma": 0,
+    "acquisition_seed": 2,
+    "budget": 4096,
+    "dictionary_rank": 13,
+    "crossings": [
+      -1.1012145625291292e-06
+    ],
+    "crossing_error": 1.1012145625291292e-06,
+    "root_failures": 0,
+    "crossing_slopes": [
+      0.9821489112008706
+    ],
+    "orientation_matches_truth": true
+  },
+  {
+    "design": "probe",
+    "amplitude": 0.02,
+    "T": 20,
+    "noise_sigma": 0,
+    "acquisition_seed": 3,
+    "budget": 4096,
+    "dictionary_rank": 13,
+    "crossings": [
+      -1.1776374725337666e-06
+    ],
+    "crossing_error": 1.1776374725337666e-06,
+    "root_failures": 0,
+    "crossing_slopes": [
+      0.9819470632403916
+    ],
+    "orientation_matches_truth": true
+  },
+  {
+    "design": "probe",
+    "amplitude": 0.02,
+    "T": 20,
+    "noise_sigma": 0,
+    "acquisition_seed": 4,
+    "budget": 4096,
+    "dictionary_rank": 13,
+    "crossings": [
+      -6.783608023698677e-07
+    ],
+    "crossing_error": 6.783608023698677e-07,
+    "root_failures": 0,
+    "crossing_slopes": [
+      0.9820103662119314
+    ],
+    "orientation_matches_truth": true
+  },
+  {
+    "design": "probe",
+    "amplitude": 0.02,
+    "T": 20,
+    "noise_sigma": 0.01,
+    "acquisition_seed": 0,
+    "budget": 4096,
+    "dictionary_rank": 13,
+    "crossings": [
+      0.005377514666295992
+    ],
+    "crossing_error": 0.005377514666295992,
+    "root_failures": 0,
+    "crossing_slopes": [
+      0.06324683990325358
+    ],
+    "orientation_matches_truth": true
+  },
+  {
+    "design": "probe",
+    "amplitude": 0.02,
+    "T": 20,
+    "noise_sigma": 0.01,
+    "acquisition_seed": 1,
+    "budget": 4096,
+    "dictionary_rank": 13,
+    "crossings": [
+      -0.008468469296751466
+    ],
+    "crossing_error": 0.008468469296751466,
+    "root_failures": 0,
+    "crossing_slopes": [
+      0.07347634898857577
+    ],
+    "orientation_matches_truth": true
+  },
+  {
+    "design": "probe",
+    "amplitude": 0.02,
+    "T": 20,
+    "noise_sigma": 0.01,
+    "acquisition_seed": 2,
+    "budget": 4096,
+    "dictionary_rank": 13,
+    "crossings": [
+      0.02493592137836828
+    ],
+    "crossing_error": 0.02493592137836828,
+    "root_failures": 0,
+    "crossing_slopes": [
+      0.038487937902616925
+    ],
+    "orientation_matches_truth": true
+  },
+  {
+    "design": "probe",
+    "amplitude": 0.02,
+    "T": 20,
+    "noise_sigma": 0.01,
+    "acquisition_seed": 3,
+    "budget": 4096,
+    "dictionary_rank": 13,
+    "crossings": [
+      -0.004445284653490791
+    ],
+    "crossing_error": 0.004445284653490791,
+    "root_failures": 0,
+    "crossing_slopes": [
+      0.040988172910079966
+    ],
+    "orientation_matches_truth": true
+  },
+  {
+    "design": "probe",
+    "amplitude": 0.02,
+    "T": 20,
+    "noise_sigma": 0.01,
+    "acquisition_seed": 4,
+    "budget": 4096,
+    "dictionary_rank": 13,
+    "crossings": [
+      0.020799512760045404
+    ],
+    "crossing_error": 0.020799512760045404,
+    "root_failures": 0,
+    "crossing_slopes": [
+      0.009482494036267301
+    ],
+    "orientation_matches_truth": true
+  },
+  {
+    "design": "probe",
+    "amplitude": 0.02,
+    "T": 20,
+    "noise_sigma": 0.05,
+    "acquisition_seed": 0,
+    "budget": 4096,
+    "dictionary_rank": 13,
+    "crossings": [
+      0.14211391329251483
+    ],
+    "crossing_error": 0.14211391329251483,
+    "root_failures": 0,
+    "crossing_slopes": [
+      0.006767428156967749
+    ],
+    "orientation_matches_truth": true
+  },
+  {
+    "design": "probe",
+    "amplitude": 0.02,
+    "T": 20,
+    "noise_sigma": 0.05,
+    "acquisition_seed": 1,
+    "budget": 4096,
+    "dictionary_rank": 13,
+    "crossings": [
+      -0.14653213494804054
+    ],
+    "crossing_error": 0.14653213494804054,
+    "root_failures": 0,
+    "crossing_slopes": [
+      0.022263523626026665
+    ],
+    "orientation_matches_truth": true
+  },
+  {
+    "design": "probe",
+    "amplitude": 0.02,
+    "T": 20,
+    "noise_sigma": 0.05,
+    "acquisition_seed": 2,
+    "budget": 4096,
+    "dictionary_rank": 13,
+    "crossings": [
+      0.3667394963135428
+    ],
+    "crossing_error": 0.3667394963135428,
+    "root_failures": 0,
+    "crossing_slopes": [
+      0.0062366485726640655
+    ],
+    "orientation_matches_truth": true
+  },
+  {
+    "design": "probe",
+    "amplitude": 0.02,
+    "T": 20,
+    "noise_sigma": 0.05,
+    "acquisition_seed": 3,
+    "budget": 4096,
+    "dictionary_rank": 13,
+    "crossings": [
+      0.04123590110476752
+    ],
+    "crossing_error": 0.04123590110476752,
+    "root_failures": 0,
+    "crossing_slopes": [
+      -0.017291120786144115
+    ],
+    "orientation_matches_truth": false
+  },
+  {
+    "design": "probe",
+    "amplitude": 0.02,
+    "T": 20,
+    "noise_sigma": 0.05,
+    "acquisition_seed": 4,
+    "budget": 4096,
+    "dictionary_rank": 13,
+    "crossings": [
+      -0.12953827692159167
+    ],
+    "crossing_error": 0.12953827692159167,
+    "root_failures": 0,
+    "crossing_slopes": [
+      -0.019814566428518615
+    ],
+    "orientation_matches_truth": false
+  },
+  {
+    "design": "probe",
+    "amplitude": 0.1,
+    "T": 5,
+    "noise_sigma": 0,
+    "acquisition_seed": 0,
+    "budget": 4096,
+    "dictionary_rank": 13,
+    "crossings": [
+      -1.34650267313291e-06
+    ],
+    "crossing_error": 1.34650267313291e-06,
+    "root_failures": 0,
+    "crossing_slopes": [
+      0.999942499828163
+    ],
+    "orientation_matches_truth": true
+  },
+  {
+    "design": "probe",
+    "amplitude": 0.1,
+    "T": 5,
+    "noise_sigma": 0,
+    "acquisition_seed": 1,
+    "budget": 4096,
+    "dictionary_rank": 13,
+    "crossings": [
+      -1.9653561733053876e-06
+    ],
+    "crossing_error": 1.9653561733053876e-06,
+    "root_failures": 0,
+    "crossing_slopes": [
+      0.9999477253877622
+    ],
+    "orientation_matches_truth": true
+  },
+  {
+    "design": "probe",
+    "amplitude": 0.1,
+    "T": 5,
+    "noise_sigma": 0,
+    "acquisition_seed": 2,
+    "budget": 4096,
+    "dictionary_rank": 13,
+    "crossings": [
+      -1.6851495290885822e-06
+    ],
+    "crossing_error": 1.6851495290885822e-06,
+    "root_failures": 0,
+    "crossing_slopes": [
+      0.9999453723776408
+    ],
+    "orientation_matches_truth": true
+  },
+  {
+    "design": "probe",
+    "amplitude": 0.1,
+    "T": 5,
+    "noise_sigma": 0,
+    "acquisition_seed": 3,
+    "budget": 4096,
+    "dictionary_rank": 13,
+    "crossings": [
+      -1.8706579030555893e-06
+    ],
+    "crossing_error": 1.8706579030555893e-06,
+    "root_failures": 0,
+    "crossing_slopes": [
+      0.9999452646915795
+    ],
+    "orientation_matches_truth": true
+  },
+  {
+    "design": "probe",
+    "amplitude": 0.1,
+    "T": 5,
+    "noise_sigma": 0,
+    "acquisition_seed": 4,
+    "budget": 4096,
+    "dictionary_rank": 13,
+    "crossings": [
+      -1.7519258674853647e-06
+    ],
+    "crossing_error": 1.7519258674853647e-06,
+    "root_failures": 0,
+    "crossing_slopes": [
+      0.9999445583830564
+    ],
+    "orientation_matches_truth": true
+  },
+  {
+    "design": "probe",
+    "amplitude": 0.1,
+    "T": 5,
+    "noise_sigma": 0.01,
+    "acquisition_seed": 0,
+    "budget": 4096,
+    "dictionary_rank": 13,
+    "crossings": [
+      0.002312645728779586
+    ],
+    "crossing_error": 0.002312645728779586,
+    "root_failures": 0,
+    "crossing_slopes": [
+      0.9173300234180956
+    ],
+    "orientation_matches_truth": true
+  },
+  {
+    "design": "probe",
+    "amplitude": 0.1,
+    "T": 5,
+    "noise_sigma": 0.01,
+    "acquisition_seed": 1,
+    "budget": 4096,
+    "dictionary_rank": 13,
+    "crossings": [
+      -0.0005896572921035383
+    ],
+    "crossing_error": 0.0005896572921035383,
+    "root_failures": 0,
+    "crossing_slopes": [
+      0.944476082845079
+    ],
+    "orientation_matches_truth": true
+  },
+  {
+    "design": "probe",
+    "amplitude": 0.1,
+    "T": 5,
+    "noise_sigma": 0.01,
+    "acquisition_seed": 2,
+    "budget": 4096,
+    "dictionary_rank": 13,
+    "crossings": [
+      0.002984139526633502
+    ],
+    "crossing_error": 0.002984139526633502,
+    "root_failures": 0,
+    "crossing_slopes": [
+      0.9273038355931458
+    ],
+    "orientation_matches_truth": true
+  },
+  {
+    "design": "probe",
+    "amplitude": 0.1,
+    "T": 5,
+    "noise_sigma": 0.01,
+    "acquisition_seed": 3,
+    "budget": 4096,
+    "dictionary_rank": 13,
+    "crossings": [
+      -0.0006379817249887113
+    ],
+    "crossing_error": 0.0006379817249887113,
+    "root_failures": 0,
+    "crossing_slopes": [
+      0.9213630455610834
+    ],
+    "orientation_matches_truth": true
+  },
+  {
+    "design": "probe",
+    "amplitude": 0.1,
+    "T": 5,
+    "noise_sigma": 0.01,
+    "acquisition_seed": 4,
+    "budget": 4096,
+    "dictionary_rank": 13,
+    "crossings": [
+      0.0034917947014954168
+    ],
+    "crossing_error": 0.0034917947014954168,
+    "root_failures": 0,
+    "crossing_slopes": [
+      0.8649636998541917
+    ],
+    "orientation_matches_truth": true
+  },
+  {
+    "design": "probe",
+    "amplitude": 0.1,
+    "T": 5,
+    "noise_sigma": 0.05,
+    "acquisition_seed": 0,
+    "budget": 4096,
+    "dictionary_rank": 13,
+    "crossings": [
+      0.03759573156859649
+    ],
+    "crossing_error": 0.03759573156859649,
+    "root_failures": 0,
+    "crossing_slopes": [
+      0.33583069478457933
+    ],
+    "orientation_matches_truth": true
+  },
+  {
+    "design": "probe",
+    "amplitude": 0.1,
+    "T": 5,
+    "noise_sigma": 0.05,
+    "acquisition_seed": 1,
+    "budget": 4096,
+    "dictionary_rank": 13,
+    "crossings": [
+      -0.005548011115764639
+    ],
+    "crossing_error": 0.005548011115764639,
+    "root_failures": 0,
+    "crossing_slopes": [
+      0.4006670491849299
+    ],
+    "orientation_matches_truth": true
+  },
+  {
+    "design": "probe",
+    "amplitude": 0.1,
+    "T": 5,
+    "noise_sigma": 0.05,
+    "acquisition_seed": 2,
+    "budget": 4096,
+    "dictionary_rank": 13,
+    "crossings": [
+      0.023664447306866142
+    ],
+    "crossing_error": 0.023664447306866142,
+    "root_failures": 0,
+    "crossing_slopes": [
+      0.34515325547136705
+    ],
+    "orientation_matches_truth": true
+  },
+  {
+    "design": "probe",
+    "amplitude": 0.1,
+    "T": 5,
+    "noise_sigma": 0.05,
+    "acquisition_seed": 3,
+    "budget": 4096,
+    "dictionary_rank": 13,
+    "crossings": [
+      0.008788159210982685
+    ],
+    "crossing_error": 0.008788159210982685,
+    "root_failures": 0,
+    "crossing_slopes": [
+      0.2621228671029771
+    ],
+    "orientation_matches_truth": true
+  },
+  {
+    "design": "probe",
+    "amplitude": 0.1,
+    "T": 5,
+    "noise_sigma": 0.05,
+    "acquisition_seed": 4,
+    "budget": 4096,
+    "dictionary_rank": 13,
+    "crossings": [
+      0.09307248472009223
+    ],
+    "crossing_error": 0.09307248472009223,
+    "root_failures": 0,
+    "crossing_slopes": [
+      0.20337205438836994
+    ],
+    "orientation_matches_truth": true
+  },
+  {
+    "design": "probe",
+    "amplitude": 0.1,
+    "T": 20,
+    "noise_sigma": 0,
+    "acquisition_seed": 0,
+    "budget": 4096,
+    "dictionary_rank": 13,
+    "crossings": [
+      -1.370701937964211e-05
+    ],
+    "crossing_error": 1.370701937964211e-05,
+    "root_failures": 0,
+    "crossing_slopes": [
+      0.9816173726881146
+    ],
+    "orientation_matches_truth": true
+  },
+  {
+    "design": "probe",
+    "amplitude": 0.1,
+    "T": 20,
+    "noise_sigma": 0,
+    "acquisition_seed": 1,
+    "budget": 4096,
+    "dictionary_rank": 13,
+    "crossings": [
+      -1.9501601858237478e-05
+    ],
+    "crossing_error": 1.9501601858237478e-05,
+    "root_failures": 0,
+    "crossing_slopes": [
+      0.9817782452313905
+    ],
+    "orientation_matches_truth": true
+  },
+  {
+    "design": "probe",
+    "amplitude": 0.1,
+    "T": 20,
+    "noise_sigma": 0,
+    "acquisition_seed": 2,
+    "budget": 4096,
+    "dictionary_rank": 13,
+    "crossings": [
+      -1.7546667861563376e-05
+    ],
+    "crossing_error": 1.7546667861563376e-05,
+    "root_failures": 0,
+    "crossing_slopes": [
+      0.9817997072022039
+    ],
+    "orientation_matches_truth": true
+  },
+  {
+    "design": "probe",
+    "amplitude": 0.1,
+    "T": 20,
+    "noise_sigma": 0,
+    "acquisition_seed": 3,
+    "budget": 4096,
+    "dictionary_rank": 13,
+    "crossings": [
+      -1.98309685292664e-05
+    ],
+    "crossing_error": 1.98309685292664e-05,
+    "root_failures": 0,
+    "crossing_slopes": [
+      0.9816456076629033
+    ],
+    "orientation_matches_truth": true
+  },
+  {
+    "design": "probe",
+    "amplitude": 0.1,
+    "T": 20,
+    "noise_sigma": 0,
+    "acquisition_seed": 4,
+    "budget": 4096,
+    "dictionary_rank": 13,
+    "crossings": [
+      -1.719278049763591e-05
+    ],
+    "crossing_error": 1.719278049763591e-05,
+    "root_failures": 0,
+    "crossing_slopes": [
+      0.9816894018676836
+    ],
+    "orientation_matches_truth": true
+  },
+  {
+    "design": "probe",
+    "amplitude": 0.1,
+    "T": 20,
+    "noise_sigma": 0.01,
+    "acquisition_seed": 0,
+    "budget": 4096,
+    "dictionary_rank": 13,
+    "crossings": [
+      0.0053655850031184135
+    ],
+    "crossing_error": 0.0053655850031184135,
+    "root_failures": 0,
+    "crossing_slopes": [
+      0.5891165722875907
+    ],
+    "orientation_matches_truth": true
+  },
+  {
+    "design": "probe",
+    "amplitude": 0.1,
+    "T": 20,
+    "noise_sigma": 0.01,
+    "acquisition_seed": 1,
+    "budget": 4096,
+    "dictionary_rank": 13,
+    "crossings": [
+      0.0015245259465865742
+    ],
+    "crossing_error": 0.0015245259465865742,
+    "root_failures": 0,
+    "crossing_slopes": [
+      0.5665377004537419
+    ],
+    "orientation_matches_truth": true
+  },
+  {
+    "design": "probe",
+    "amplitude": 0.1,
+    "T": 20,
+    "noise_sigma": 0.01,
+    "acquisition_seed": 2,
+    "budget": 4096,
+    "dictionary_rank": 13,
+    "crossings": [
+      0.0032152995250569094
+    ],
+    "crossing_error": 0.0032152995250569094,
+    "root_failures": 0,
+    "crossing_slopes": [
+      0.5634048593732357
+    ],
+    "orientation_matches_truth": true
+  },
+  {
+    "design": "probe",
+    "amplitude": 0.1,
+    "T": 20,
+    "noise_sigma": 0.01,
+    "acquisition_seed": 3,
+    "budget": 4096,
+    "dictionary_rank": 13,
+    "crossings": [
+      0.0022507745908347055
+    ],
+    "crossing_error": 0.0022507745908347055,
+    "root_failures": 0,
+    "crossing_slopes": [
+      0.5708106856935945
+    ],
+    "orientation_matches_truth": true
+  },
+  {
+    "design": "probe",
+    "amplitude": 0.1,
+    "T": 20,
+    "noise_sigma": 0.01,
+    "acquisition_seed": 4,
+    "budget": 4096,
+    "dictionary_rank": 13,
+    "crossings": [
+      0.002577071825980016
+    ],
+    "crossing_error": 0.002577071825980016,
+    "root_failures": 0,
+    "crossing_slopes": [
+      0.5261718758838582
+    ],
+    "orientation_matches_truth": true
+  },
+  {
+    "design": "probe",
+    "amplitude": 0.1,
+    "T": 20,
+    "noise_sigma": 0.05,
+    "acquisition_seed": 0,
+    "budget": 4096,
+    "dictionary_rank": 13,
+    "crossings": [
+      0.05292458715739246
+    ],
+    "crossing_error": 0.05292458715739246,
+    "root_failures": 0,
+    "crossing_slopes": [
+      0.0635710805403384
+    ],
+    "orientation_matches_truth": true
+  },
+  {
+    "design": "probe",
+    "amplitude": 0.1,
+    "T": 20,
+    "noise_sigma": 0.05,
+    "acquisition_seed": 1,
+    "budget": 4096,
+    "dictionary_rank": 13,
+    "crossings": [
+      -0.0197249046363302
+    ],
+    "crossing_error": 0.0197249046363302,
+    "root_failures": 0,
+    "crossing_slopes": [
+      0.072758431798642
+    ],
+    "orientation_matches_truth": true
+  },
+  {
+    "design": "probe",
+    "amplitude": 0.1,
+    "T": 20,
+    "noise_sigma": 0.05,
+    "acquisition_seed": 2,
+    "budget": 4096,
+    "dictionary_rank": 13,
+    "crossings": [
+      0.06468339451000248
+    ],
+    "crossing_error": 0.06468339451000248,
+    "root_failures": 0,
+    "crossing_slopes": [
+      0.056403287556575775
+    ],
+    "orientation_matches_truth": true
+  },
+  {
+    "design": "probe",
+    "amplitude": 0.1,
+    "T": 20,
+    "noise_sigma": 0.05,
+    "acquisition_seed": 3,
+    "budget": 4096,
+    "dictionary_rank": 13,
+    "crossings": [
+      0.020529482585607217
+    ],
+    "crossing_error": 0.020529482585607217,
+    "root_failures": 0,
+    "crossing_slopes": [
+      0.03828936834425131
+    ],
+    "orientation_matches_truth": true
+  },
+  {
+    "design": "probe",
+    "amplitude": 0.1,
+    "T": 20,
+    "noise_sigma": 0.05,
+    "acquisition_seed": 4,
+    "budget": 4096,
+    "dictionary_rank": 13,
+    "crossings": [
+      0.2518465439324572
+    ],
+    "crossing_error": 0.2518465439324572,
+    "root_failures": 0,
+    "crossing_slopes": [
+      0.017147379284396812
+    ],
+    "orientation_matches_truth": true
+  }
+]

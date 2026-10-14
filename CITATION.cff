@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "Please cite the accompanying computational research manuscript when using these experiments."
+title: "Beyond Orbit Fit: Observation Geometry and Structural Priors in Learning Hopf Bifurcations"
+type: software
+version: 1.0.0
+date-released: 2026-10-14
+authors:
+  - family-names: Fu
+    given-names: Jiajun
+    affiliation: Duke Kunshan University
+abstract: "Synthetic experiments on observation design, structural priors, noise and Hopf bifurcation recovery."

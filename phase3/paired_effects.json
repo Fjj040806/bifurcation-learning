@@ -1,0 +1,41 @@
+[
+  {
+    "budget": 4096,
+    "contrast": "passive minus random",
+    "valid_pairs": 1,
+    "paired_error_differences": [
+      0.23591393958948176
+    ],
+    "median_paired_difference": 0.23591393958948176
+  },
+  {
+    "budget": 4096,
+    "contrast": "probe minus random",
+    "valid_pairs": 3,
+    "paired_error_differences": [
+      0.01660956154091789,
+      0.1322105293468263,
+      0.25005224002182047
+    ],
+    "median_paired_difference": 0.1322105293468263
+  },
+  {
+    "budget": 16384,
+    "contrast": "passive minus random",
+    "valid_pairs": 1,
+    "paired_error_differences": [
+      0.2199119196900246
+    ],
+    "median_paired_difference": 0.2199119196900246
+  },
+  {
+    "budget": 16384,
+    "contrast": "probe minus random",
+    "valid_pairs": 2,
+    "paired_error_differences": [
+      0.14158356985059206,
+      0.3302419687124925
+    ],
+    "median_paired_difference": 0.23591276928154228
+  }
+]

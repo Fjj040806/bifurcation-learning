@@ -1,0 +1,446 @@
+[
+  {
+    "control": 0,
+    "design": "random",
+    "amplitude": 0.02,
+    "T": 5,
+    "noise_sigma": 0,
+    "acquisition_seed": 0,
+    "model_seed": 0,
+    "validation_mse": 6.4450620470459e-06,
+    "best_step": 3300,
+    "crossings": [
+      -0.04113686481366977
+    ],
+    "crossing_error": 0.04113686481366977,
+    "root_failures": 0,
+    "crossing_slopes": [
+      1.0690527549477025
+    ],
+    "orientation_matches_truth": true
+  },
+  {
+    "control": 0,
+    "design": "random",
+    "amplitude": 0.02,
+    "T": 5,
+    "noise_sigma": 0,
+    "acquisition_seed": 0,
+    "model_seed": 1,
+    "validation_mse": 5.874230143389357e-06,
+    "best_step": 3000,
+    "crossings": [
+      -0.04143629068039877
+    ],
+    "crossing_error": 0.04143629068039877,
+    "root_failures": 0,
+    "crossing_slopes": [
+      1.1149187827814293
+    ],
+    "orientation_matches_truth": true
+  },
+  {
+    "control": 0,
+    "design": "random",
+    "amplitude": 0.02,
+    "T": 5,
+    "noise_sigma": 0,
+    "acquisition_seed": 1,
+    "model_seed": 0,
+    "validation_mse": 3.733906320270968e-06,
+    "best_step": 3500,
+    "crossings": [
+      -0.0274928832690166
+    ],
+    "crossing_error": 0.0274928832690166,
+    "root_failures": 0,
+    "crossing_slopes": [
+      1.022195268890469
+    ],
+    "orientation_matches_truth": true
+  },
+  {
+    "control": 0,
+    "design": "random",
+    "amplitude": 0.02,
+    "T": 5,
+    "noise_sigma": 0,
+    "acquisition_seed": 1,
+    "model_seed": 1,
+    "validation_mse": 5.73402282101322e-06,
+    "best_step": 3400,
+    "crossings": [
+      -0.03365121533992551
+    ],
+    "crossing_error": 0.03365121533992551,
+    "root_failures": 0,
+    "crossing_slopes": [
+      1.05355024840742
+    ],
+    "orientation_matches_truth": true
+  },
+  {
+    "control": 1,
+    "design": "probe",
+    "amplitude": 0.02,
+    "T": 5,
+    "noise_sigma": 0,
+    "acquisition_seed": 0,
+    "model_seed": 0,
+    "validation_mse": 0.001980343365312972,
+    "best_step": 600,
+    "crossings": [],
+    "crossing_error": null,
+    "root_failures": 0,
+    "crossing_slopes": [],
+    "orientation_matches_truth": false
+  },
+  {
+    "control": 1,
+    "design": "probe",
+    "amplitude": 0.02,
+    "T": 5,
+    "noise_sigma": 0,
+    "acquisition_seed": 0,
+    "model_seed": 1,
+    "validation_mse": 0.0020468744736169813,
+    "best_step": 700,
+    "crossings": [],
+    "crossing_error": null,
+    "root_failures": 0,
+    "crossing_slopes": [],
+    "orientation_matches_truth": false
+  },
+  {
+    "control": 1,
+    "design": "probe",
+    "amplitude": 0.02,
+    "T": 5,
+    "noise_sigma": 0,
+    "acquisition_seed": 1,
+    "model_seed": 0,
+    "validation_mse": 0.001998325584185824,
+    "best_step": 600,
+    "crossings": [],
+    "crossing_error": null,
+    "root_failures": 0,
+    "crossing_slopes": [],
+    "orientation_matches_truth": false
+  },
+  {
+    "control": 1,
+    "design": "probe",
+    "amplitude": 0.02,
+    "T": 5,
+    "noise_sigma": 0,
+    "acquisition_seed": 1,
+    "model_seed": 1,
+    "validation_mse": 0.002041613929113012,
+    "best_step": 400,
+    "crossings": [
+      -0.3526134302695219
+    ],
+    "crossing_error": 0.3526134302695219,
+    "root_failures": 0,
+    "crossing_slopes": [
+      -0.013533643155455575
+    ],
+    "orientation_matches_truth": false
+  },
+  {
+    "control": 2,
+    "design": "probe",
+    "amplitude": 0.1,
+    "T": 5,
+    "noise_sigma": 0,
+    "acquisition_seed": 0,
+    "model_seed": 0,
+    "validation_mse": 0.0005552805136539033,
+    "best_step": 3600,
+    "crossings": [
+      0.07351865780405467
+    ],
+    "crossing_error": 0.07351865780405467,
+    "root_failures": 0,
+    "crossing_slopes": [
+      0.5676008730984283
+    ],
+    "orientation_matches_truth": true
+  },
+  {
+    "control": 2,
+    "design": "probe",
+    "amplitude": 0.1,
+    "T": 5,
+    "noise_sigma": 0,
+    "acquisition_seed": 0,
+    "model_seed": 1,
+    "validation_mse": 0.0003151925380510331,
+    "best_step": 3600,
+    "crossings": [
+      0.09278482295006721
+    ],
+    "crossing_error": 0.09278482295006721,
+    "root_failures": 0,
+    "crossing_slopes": [
+      0.8963720345873948
+    ],
+    "orientation_matches_truth": true
+  },
+  {
+    "control": 2,
+    "design": "probe",
+    "amplitude": 0.1,
+    "T": 5,
+    "noise_sigma": 0,
+    "acquisition_seed": 1,
+    "model_seed": 0,
+    "validation_mse": 0.0002644212666637891,
+    "best_step": 3600,
+    "crossings": [
+      0.06837853504978522
+    ],
+    "crossing_error": 0.06837853504978522,
+    "root_failures": 0,
+    "crossing_slopes": [
+      0.7582440357561947
+    ],
+    "orientation_matches_truth": true
+  },
+  {
+    "control": 2,
+    "design": "probe",
+    "amplitude": 0.1,
+    "T": 5,
+    "noise_sigma": 0,
+    "acquisition_seed": 1,
+    "model_seed": 1,
+    "validation_mse": 0.0004051308045599106,
+    "best_step": 3600,
+    "crossings": [
+      0.09959340569704955
+    ],
+    "crossing_error": 0.09959340569704955,
+    "root_failures": 0,
+    "crossing_slopes": [
+      0.8037608953542773
+    ],
+    "orientation_matches_truth": true
+  },
+  {
+    "control": 3,
+    "design": "probe",
+    "amplitude": 0.02,
+    "T": 20,
+    "noise_sigma": 0,
+    "acquisition_seed": 0,
+    "model_seed": 0,
+    "validation_mse": 0.0018865625707468869,
+    "best_step": 600,
+    "crossings": [],
+    "crossing_error": null,
+    "root_failures": 0,
+    "crossing_slopes": [],
+    "orientation_matches_truth": false
+  },
+  {
+    "control": 3,
+    "design": "probe",
+    "amplitude": 0.02,
+    "T": 20,
+    "noise_sigma": 0,
+    "acquisition_seed": 0,
+    "model_seed": 1,
+    "validation_mse": 0.0020302884764682237,
+    "best_step": 500,
+    "crossings": [],
+    "crossing_error": null,
+    "root_failures": 0,
+    "crossing_slopes": [],
+    "orientation_matches_truth": false
+  },
+  {
+    "control": 3,
+    "design": "probe",
+    "amplitude": 0.02,
+    "T": 20,
+    "noise_sigma": 0,
+    "acquisition_seed": 1,
+    "model_seed": 0,
+    "validation_mse": 0.0018692069707832587,
+    "best_step": 600,
+    "crossings": [],
+    "crossing_error": null,
+    "root_failures": 0,
+    "crossing_slopes": [],
+    "orientation_matches_truth": false
+  },
+  {
+    "control": 3,
+    "design": "probe",
+    "amplitude": 0.02,
+    "T": 20,
+    "noise_sigma": 0,
+    "acquisition_seed": 1,
+    "model_seed": 1,
+    "validation_mse": 0.0020254815282074977,
+    "best_step": 500,
+    "crossings": [],
+    "crossing_error": null,
+    "root_failures": 0,
+    "crossing_slopes": [],
+    "orientation_matches_truth": false
+  },
+  {
+    "control": 4,
+    "design": "random",
+    "amplitude": 0.02,
+    "T": 5,
+    "noise_sigma": 0.01,
+    "acquisition_seed": 0,
+    "model_seed": 0,
+    "validation_mse": 2.607931299367306e-05,
+    "best_step": 3500,
+    "crossings": [
+      -0.06445854457464824
+    ],
+    "crossing_error": 0.06445854457464824,
+    "root_failures": 0,
+    "crossing_slopes": [
+      1.0745030726413973
+    ],
+    "orientation_matches_truth": true
+  },
+  {
+    "control": 4,
+    "design": "random",
+    "amplitude": 0.02,
+    "T": 5,
+    "noise_sigma": 0.01,
+    "acquisition_seed": 0,
+    "model_seed": 1,
+    "validation_mse": 2.697929716615522e-05,
+    "best_step": 2700,
+    "crossings": [
+      0.004813051412941644
+    ],
+    "crossing_error": 0.004813051412941644,
+    "root_failures": 0,
+    "crossing_slopes": [
+      1.226288692159766
+    ],
+    "orientation_matches_truth": true
+  },
+  {
+    "control": 4,
+    "design": "random",
+    "amplitude": 0.02,
+    "T": 5,
+    "noise_sigma": 0.01,
+    "acquisition_seed": 1,
+    "model_seed": 0,
+    "validation_mse": 3.6477741031142844e-05,
+    "best_step": 2300,
+    "crossings": [
+      0.012926903209180402
+    ],
+    "crossing_error": 0.012926903209180402,
+    "root_failures": 0,
+    "crossing_slopes": [
+      1.0536482490157428
+    ],
+    "orientation_matches_truth": true
+  },
+  {
+    "control": 4,
+    "design": "random",
+    "amplitude": 0.02,
+    "T": 5,
+    "noise_sigma": 0.01,
+    "acquisition_seed": 1,
+    "model_seed": 1,
+    "validation_mse": 2.5138255198024634e-05,
+    "best_step": 3100,
+    "crossings": [
+      -0.05061924982458404
+    ],
+    "crossing_error": 0.05061924982458404,
+    "root_failures": 0,
+    "crossing_slopes": [
+      1.1316649204206815
+    ],
+    "orientation_matches_truth": true
+  },
+  {
+    "control": 5,
+    "design": "probe",
+    "amplitude": 0.02,
+    "T": 5,
+    "noise_sigma": 0.01,
+    "acquisition_seed": 0,
+    "model_seed": 0,
+    "validation_mse": 0.0012271107775005277,
+    "best_step": 3600,
+    "crossings": [
+      0.2789890411312464
+    ],
+    "crossing_error": 0.2789890411312464,
+    "root_failures": 0,
+    "crossing_slopes": [
+      0.3140181660608865
+    ],
+    "orientation_matches_truth": true
+  },
+  {
+    "control": 5,
+    "design": "probe",
+    "amplitude": 0.02,
+    "T": 5,
+    "noise_sigma": 0.01,
+    "acquisition_seed": 0,
+    "model_seed": 1,
+    "validation_mse": 0.0017552021468862965,
+    "best_step": 3000,
+    "crossings": [],
+    "crossing_error": null,
+    "root_failures": 0,
+    "crossing_slopes": [],
+    "orientation_matches_truth": false
+  },
+  {
+    "control": 5,
+    "design": "probe",
+    "amplitude": 0.02,
+    "T": 5,
+    "noise_sigma": 0.01,
+    "acquisition_seed": 1,
+    "model_seed": 0,
+    "validation_mse": 0.001332382249646348,
+    "best_step": 3300,
+    "crossings": [
+      0.37276464848433555
+    ],
+    "crossing_error": 0.37276464848433555,
+    "root_failures": 0,
+    "crossing_slopes": [
+      0.15402627507460354
+    ],
+    "orientation_matches_truth": true
+  },
+  {
+    "control": 5,
+    "design": "probe",
+    "amplitude": 0.02,
+    "T": 5,
+    "noise_sigma": 0.01,
+    "acquisition_seed": 1,
+    "model_seed": 1,
+    "validation_mse": 0.0018255864787668549,
+    "best_step": 3100,
+    "crossings": [],
+    "crossing_error": null,
+    "root_failures": 0,
+    "crossing_slopes": [],
+    "orientation_matches_truth": false
+  }
+]

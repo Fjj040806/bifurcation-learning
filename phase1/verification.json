@@ -1,0 +1,15 @@
+{
+  "fhn_hopf_analytic": 0.3312813374547458,
+  "fhn_hopf_root": 0.33128133745474586,
+  "fhn_hopf_frequency": 0.27550680572356095,
+  "fhn_first_lyapunov_coefficient": 0.9719710819889976,
+  "fhn_transversality_real_eigenvalue_slope": 0.8157427738582007,
+  "hopf_squared_radius_max_error": 2.643329999330035e-10,
+  "hopf_tolerance_refinement_max_state_difference": 8.152054031818068e-10,
+  "fhn_tolerance_refinement_max_state_difference": 5.5653045505366094e-09,
+  "pilot_scalar_measurements_by_split": {
+    "train": 2048,
+    "validation": 1024,
+    "test": 1024
+  }
+}

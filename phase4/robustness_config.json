@@ -1,0 +1,55 @@
+{
+  "polynomial_fits": 150,
+  "extrapolation_fits": 20,
+  "node_controls": [
+    [
+      "random",
+      0.02,
+      5,
+      0
+    ],
+    [
+      "probe",
+      0.02,
+      5,
+      0
+    ],
+    [
+      "probe",
+      0.1,
+      5,
+      0
+    ],
+    [
+      "probe",
+      0.02,
+      20,
+      0
+    ],
+    [
+      "random",
+      0.02,
+      5,
+      0.01
+    ],
+    [
+      "probe",
+      0.02,
+      5,
+      0.01
+    ]
+  ],
+  "acquisition_seeds": [
+    0,
+    1
+  ],
+  "model_seeds": [
+    0,
+    1
+  ],
+  "steps": 3600,
+  "scalar_training_budget": 4096,
+  "noise_definition": "absolute iid Gaussian observation noise; no process noise",
+  "anchor_cost": "oracle anchor setup excluded, conditional design comparison",
+  "longer_window": "same 64 points, hence coarser time sampling"
+}

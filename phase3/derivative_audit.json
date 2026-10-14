@@ -1,0 +1,792 @@
+[
+  {
+    "design": "passive",
+    "budget": 4096,
+    "seed": 0,
+    "steps": 1200,
+    "minimum_branch_determinant": 0.99069745124678,
+    "root_failures": 0,
+    "candidates": []
+  },
+  {
+    "design": "passive",
+    "budget": 4096,
+    "seed": 0,
+    "steps": 3600,
+    "minimum_branch_determinant": 0.99069745124678,
+    "root_failures": 0,
+    "candidates": []
+  },
+  {
+    "design": "passive",
+    "budget": 4096,
+    "seed": 1,
+    "steps": 1200,
+    "minimum_branch_determinant": 0.8970385633325902,
+    "root_failures": 0,
+    "candidates": []
+  },
+  {
+    "design": "passive",
+    "budget": 4096,
+    "seed": 1,
+    "steps": 3600,
+    "minimum_branch_determinant": 0.8970385633325902,
+    "root_failures": 0,
+    "candidates": []
+  },
+  {
+    "design": "passive",
+    "budget": 4096,
+    "seed": 2,
+    "steps": 1200,
+    "minimum_branch_determinant": 0.9471603176197264,
+    "root_failures": 0,
+    "candidates": [
+      {
+        "mu": -0.2636237554190073,
+        "determinant": 1.0160544715244904,
+        "crossing_slope": -0.020218198143462374,
+        "residual": 1.561853346773125e-17
+      }
+    ]
+  },
+  {
+    "design": "passive",
+    "budget": 4096,
+    "seed": 2,
+    "steps": 3600,
+    "minimum_branch_determinant": 0.9471603176197264,
+    "root_failures": 0,
+    "candidates": [
+      {
+        "mu": -0.2636237554190073,
+        "determinant": 1.0160544715244904,
+        "crossing_slope": -0.020218198143462374,
+        "residual": 1.561853346773125e-17
+      }
+    ]
+  },
+  {
+    "design": "passive",
+    "budget": 4096,
+    "seed": 3,
+    "steps": 1200,
+    "minimum_branch_determinant": 0.8964326250500494,
+    "root_failures": 2,
+    "candidates": []
+  },
+  {
+    "design": "passive",
+    "budget": 4096,
+    "seed": 3,
+    "steps": 3600,
+    "minimum_branch_determinant": 0.8176747212944397,
+    "root_failures": 2,
+    "candidates": []
+  },
+  {
+    "design": "passive",
+    "budget": 4096,
+    "seed": 4,
+    "steps": 1200,
+    "minimum_branch_determinant": 1.2360635615598605,
+    "root_failures": 0,
+    "candidates": []
+  },
+  {
+    "design": "passive",
+    "budget": 4096,
+    "seed": 4,
+    "steps": 3600,
+    "minimum_branch_determinant": 1.2360635615598605,
+    "root_failures": 0,
+    "candidates": []
+  },
+  {
+    "design": "random",
+    "budget": 4096,
+    "seed": 0,
+    "steps": 1200,
+    "minimum_branch_determinant": 1.0459509986103213,
+    "root_failures": 0,
+    "candidates": [
+      {
+        "mu": 0.02533406123869607,
+        "determinant": 1.0459510463276764,
+        "crossing_slope": 1.1993476347699206,
+        "residual": 5.003707553108401e-17
+      }
+    ]
+  },
+  {
+    "design": "random",
+    "budget": 4096,
+    "seed": 0,
+    "steps": 3600,
+    "minimum_branch_determinant": 0.9776306159049052,
+    "root_failures": 0,
+    "candidates": [
+      {
+        "mu": -0.033464176444428693,
+        "determinant": 0.9776972440905085,
+        "crossing_slope": 1.075365875555581,
+        "residual": 6.938893903907228e-18
+      }
+    ]
+  },
+  {
+    "design": "random",
+    "budget": 4096,
+    "seed": 1,
+    "steps": 1200,
+    "minimum_branch_determinant": 1.04789005940386,
+    "root_failures": 0,
+    "candidates": [
+      {
+        "mu": 0.03551479257289984,
+        "determinant": 1.0544048389964793,
+        "crossing_slope": 1.1148635516919359,
+        "residual": 7.473417450352271e-17
+      }
+    ]
+  },
+  {
+    "design": "random",
+    "budget": 4096,
+    "seed": 1,
+    "steps": 3600,
+    "minimum_branch_determinant": 0.9540223083484006,
+    "root_failures": 0,
+    "candidates": [
+      {
+        "mu": -0.031922115275474505,
+        "determinant": 0.9542617020980176,
+        "crossing_slope": 1.0896942458551995,
+        "residual": 1.4898437035160061e-16
+      }
+    ]
+  },
+  {
+    "design": "random",
+    "budget": 4096,
+    "seed": 2,
+    "steps": 1200,
+    "minimum_branch_determinant": 1.063320687219536,
+    "root_failures": 0,
+    "candidates": [
+      {
+        "mu": 0.04802417299595073,
+        "determinant": 1.0648013053820158,
+        "crossing_slope": 1.2465416780346044,
+        "residual": 1.962615573354719e-17
+      }
+    ]
+  },
+  {
+    "design": "random",
+    "budget": 4096,
+    "seed": 2,
+    "steps": 3600,
+    "minimum_branch_determinant": 0.9692223631494054,
+    "root_failures": 0,
+    "candidates": [
+      {
+        "mu": -0.02770981582952554,
+        "determinant": 0.9692547525258784,
+        "crossing_slope": 1.1390475730947702,
+        "residual": 9.739201700399851e-17
+      }
+    ]
+  },
+  {
+    "design": "random",
+    "budget": 4096,
+    "seed": 3,
+    "steps": 1200,
+    "minimum_branch_determinant": 0.9525885640570867,
+    "root_failures": 0,
+    "candidates": [
+      {
+        "mu": -0.008427079244479472,
+        "determinant": 0.9532356850319161,
+        "crossing_slope": 1.203488603492009,
+        "residual": 4.0608835428777945e-17
+      }
+    ]
+  },
+  {
+    "design": "random",
+    "budget": 4096,
+    "seed": 3,
+    "steps": 3600,
+    "minimum_branch_determinant": 0.9554970466252808,
+    "root_failures": 2,
+    "candidates": [
+      {
+        "mu": -0.02431116048179077,
+        "determinant": 0.9556283090193782,
+        "crossing_slope": 1.0056908017946897,
+        "residual": 5.594315114139762e-17
+      }
+    ]
+  },
+  {
+    "design": "random",
+    "budget": 4096,
+    "seed": 4,
+    "steps": 1200,
+    "minimum_branch_determinant": 0.9796502297238706,
+    "root_failures": 0,
+    "candidates": [
+      {
+        "mu": 0.0010179932469967284,
+        "determinant": 0.9807289838452817,
+        "crossing_slope": 1.1704108459836131,
+        "residual": 4.872882708070266e-17
+      }
+    ]
+  },
+  {
+    "design": "random",
+    "budget": 4096,
+    "seed": 4,
+    "steps": 3600,
+    "minimum_branch_determinant": 0.9484989069952053,
+    "root_failures": 0,
+    "candidates": [
+      {
+        "mu": -0.017736879971491516,
+        "determinant": 0.9485989900783542,
+        "crossing_slope": 1.0678754472935592,
+        "residual": 2.3193818890176574e-17
+      }
+    ]
+  },
+  {
+    "design": "probe",
+    "budget": 4096,
+    "seed": 0,
+    "steps": 1200,
+    "minimum_branch_determinant": 0.9831353061144055,
+    "root_failures": 0,
+    "candidates": []
+  },
+  {
+    "design": "probe",
+    "budget": 4096,
+    "seed": 0,
+    "steps": 3600,
+    "minimum_branch_determinant": 0.7097469641463353,
+    "root_failures": 0,
+    "candidates": []
+  },
+  {
+    "design": "probe",
+    "budget": 4096,
+    "seed": 1,
+    "steps": 1200,
+    "minimum_branch_determinant": 0.9597749657363267,
+    "root_failures": 1,
+    "candidates": []
+  },
+  {
+    "design": "probe",
+    "budget": 4096,
+    "seed": 1,
+    "steps": 3600,
+    "minimum_branch_determinant": 0.7164220998744361,
+    "root_failures": 0,
+    "candidates": [
+      {
+        "mu": 0.048531676816392394,
+        "determinant": 0.987832690225237,
+        "crossing_slope": 0.020389316062602303,
+        "residual": 2.1174998587429782e-17
+      }
+    ]
+  },
+  {
+    "design": "probe",
+    "budget": 4096,
+    "seed": 2,
+    "steps": 1200,
+    "minimum_branch_determinant": 0.9453526398264496,
+    "root_failures": 0,
+    "candidates": [
+      {
+        "mu": -0.3483939216538877,
+        "determinant": 0.9711606720044238,
+        "crossing_slope": -0.019386989478370475,
+        "residual": 1.5178830414797062e-17
+      }
+    ]
+  },
+  {
+    "design": "probe",
+    "budget": 4096,
+    "seed": 2,
+    "steps": 3600,
+    "minimum_branch_determinant": 0.7657922701977689,
+    "root_failures": 5,
+    "candidates": [
+      {
+        "mu": 0.15992034517635184,
+        "determinant": 1.1016989059245121,
+        "crossing_slope": 0.06704786525701945,
+        "residual": 8.770652787438943e-18
+      }
+    ]
+  },
+  {
+    "design": "probe",
+    "budget": 4096,
+    "seed": 3,
+    "steps": 1200,
+    "minimum_branch_determinant": 0.9412190703334101,
+    "root_failures": 0,
+    "candidates": []
+  },
+  {
+    "design": "probe",
+    "budget": 4096,
+    "seed": 3,
+    "steps": 3600,
+    "minimum_branch_determinant": 0.8089826459942626,
+    "root_failures": 2,
+    "candidates": [
+      {
+        "mu": 0.27436340050361124,
+        "determinant": 1.1263600030648837,
+        "crossing_slope": 0.015819909576428315,
+        "residual": 5.204170427930421e-18
+      }
+    ]
+  },
+  {
+    "design": "probe",
+    "budget": 4096,
+    "seed": 4,
+    "steps": 1200,
+    "minimum_branch_determinant": 1.2391044510226612,
+    "root_failures": 0,
+    "candidates": []
+  },
+  {
+    "design": "probe",
+    "budget": 4096,
+    "seed": 4,
+    "steps": 3600,
+    "minimum_branch_determinant": 1.2391044510226612,
+    "root_failures": 0,
+    "candidates": []
+  },
+  {
+    "design": "passive",
+    "budget": 16384,
+    "seed": 0,
+    "steps": 1200,
+    "minimum_branch_determinant": 0.9123481185680536,
+    "root_failures": 0,
+    "candidates": []
+  },
+  {
+    "design": "passive",
+    "budget": 16384,
+    "seed": 0,
+    "steps": 3600,
+    "minimum_branch_determinant": 0.9123481185680536,
+    "root_failures": 0,
+    "candidates": []
+  },
+  {
+    "design": "passive",
+    "budget": 16384,
+    "seed": 1,
+    "steps": 1200,
+    "minimum_branch_determinant": 1.136590102639987,
+    "root_failures": 0,
+    "candidates": [
+      {
+        "mu": -0.2649900625453963,
+        "determinant": 1.1906553607398627,
+        "crossing_slope": -0.012913430307015526,
+        "residual": 2.729434556418477e-17
+      }
+    ]
+  },
+  {
+    "design": "passive",
+    "budget": 16384,
+    "seed": 1,
+    "steps": 3600,
+    "minimum_branch_determinant": 1.136590102639987,
+    "root_failures": 0,
+    "candidates": [
+      {
+        "mu": -0.2649900625453963,
+        "determinant": 1.1906553607398627,
+        "crossing_slope": -0.012913430307015526,
+        "residual": 2.729434556418477e-17
+      }
+    ]
+  },
+  {
+    "design": "passive",
+    "budget": 16384,
+    "seed": 2,
+    "steps": 1200,
+    "minimum_branch_determinant": 0.9852583184715651,
+    "root_failures": 0,
+    "candidates": []
+  },
+  {
+    "design": "passive",
+    "budget": 16384,
+    "seed": 2,
+    "steps": 3600,
+    "minimum_branch_determinant": 0.9852583184715651,
+    "root_failures": 0,
+    "candidates": []
+  },
+  {
+    "design": "passive",
+    "budget": 16384,
+    "seed": 3,
+    "steps": 1200,
+    "minimum_branch_determinant": 0.8749127722964389,
+    "root_failures": 0,
+    "candidates": []
+  },
+  {
+    "design": "passive",
+    "budget": 16384,
+    "seed": 3,
+    "steps": 3600,
+    "minimum_branch_determinant": 0.7711849381025491,
+    "root_failures": 0,
+    "candidates": []
+  },
+  {
+    "design": "passive",
+    "budget": 16384,
+    "seed": 4,
+    "steps": 1200,
+    "minimum_branch_determinant": 0.9857417391138087,
+    "root_failures": 0,
+    "candidates": [
+      {
+        "mu": -0.3769331504444491,
+        "determinant": 1.0009484541663434,
+        "crossing_slope": -0.011276439469166953,
+        "residual": 3.469446951953614e-18
+      },
+      {
+        "mu": 0.33915054272107853,
+        "determinant": 1.3546943881318205,
+        "crossing_slope": 0.01679942116441374,
+        "residual": 2.6020852139652106e-17
+      }
+    ]
+  },
+  {
+    "design": "passive",
+    "budget": 16384,
+    "seed": 4,
+    "steps": 3600,
+    "minimum_branch_determinant": 0.9857417391138087,
+    "root_failures": 0,
+    "candidates": [
+      {
+        "mu": -0.3769331504444491,
+        "determinant": 1.0009484541663434,
+        "crossing_slope": -0.011276439469166953,
+        "residual": 3.469446951953614e-18
+      },
+      {
+        "mu": 0.33915054272107853,
+        "determinant": 1.3546943881318205,
+        "crossing_slope": 0.01679942116441374,
+        "residual": 2.6020852139652106e-17
+      }
+    ]
+  },
+  {
+    "design": "random",
+    "budget": 16384,
+    "seed": 0,
+    "steps": 1200,
+    "minimum_branch_determinant": 0.9965388663829833,
+    "root_failures": 0,
+    "candidates": [
+      {
+        "mu": 0.08364324936715133,
+        "determinant": 1.0005468162558724,
+        "crossing_slope": 1.0753863081670867,
+        "residual": 4.654751537338637e-17
+      }
+    ]
+  },
+  {
+    "design": "random",
+    "budget": 16384,
+    "seed": 0,
+    "steps": 3600,
+    "minimum_branch_determinant": 0.9700777616301052,
+    "root_failures": 0,
+    "candidates": [
+      {
+        "mu": -0.02413956217024422,
+        "determinant": 0.9700806200041237,
+        "crossing_slope": 1.0020402426216823,
+        "residual": 4.9310106010724466e-17
+      }
+    ]
+  },
+  {
+    "design": "random",
+    "budget": 16384,
+    "seed": 1,
+    "steps": 1200,
+    "minimum_branch_determinant": 1.10583192296859,
+    "root_failures": 0,
+    "candidates": [
+      {
+        "mu": 0.07083694859197277,
+        "determinant": 1.1208750666025111,
+        "crossing_slope": 1.0688761372293354,
+        "residual": 6.912824078848549e-17
+      }
+    ]
+  },
+  {
+    "design": "random",
+    "budget": 16384,
+    "seed": 1,
+    "steps": 3600,
+    "minimum_branch_determinant": 0.9553744060292746,
+    "root_failures": 0,
+    "candidates": [
+      {
+        "mu": -0.04507814285537169,
+        "determinant": 0.955819518130652,
+        "crossing_slope": 1.1035830646276972,
+        "residual": 2.359479019930958e-17
+      }
+    ]
+  },
+  {
+    "design": "random",
+    "budget": 16384,
+    "seed": 2,
+    "steps": 1200,
+    "minimum_branch_determinant": 1.0551437387707263,
+    "root_failures": 0,
+    "candidates": [
+      {
+        "mu": 0.05135050526616485,
+        "determinant": 1.0614796941053073,
+        "crossing_slope": 1.1841631814746636,
+        "residual": 3.025837140310865e-17
+      }
+    ]
+  },
+  {
+    "design": "random",
+    "budget": 16384,
+    "seed": 2,
+    "steps": 3600,
+    "minimum_branch_determinant": 0.9734176096302428,
+    "root_failures": 0,
+    "candidates": [
+      {
+        "mu": -0.04898821531321963,
+        "determinant": 0.9734333135419752,
+        "crossing_slope": 1.1516765394105344,
+        "residual": 1.5291433081053864e-16
+      }
+    ]
+  },
+  {
+    "design": "random",
+    "budget": 16384,
+    "seed": 3,
+    "steps": 1200,
+    "minimum_branch_determinant": 1.0048296763920501,
+    "root_failures": 0,
+    "candidates": [
+      {
+        "mu": 0.07558798467739489,
+        "determinant": 1.0090883963344608,
+        "crossing_slope": 1.342408288355478,
+        "residual": 1.0938734888409276e-16
+      }
+    ]
+  },
+  {
+    "design": "random",
+    "budget": 16384,
+    "seed": 3,
+    "steps": 3600,
+    "minimum_branch_determinant": 0.9380918626403354,
+    "root_failures": 0,
+    "candidates": [
+      {
+        "mu": -0.05323564558315963,
+        "determinant": 0.9390393230574119,
+        "crossing_slope": 1.133188522979382,
+        "residual": 1.7782026240205306e-16
+      }
+    ]
+  },
+  {
+    "design": "random",
+    "budget": 16384,
+    "seed": 4,
+    "steps": 1200,
+    "minimum_branch_determinant": 0.9940136505235755,
+    "root_failures": 0,
+    "candidates": [
+      {
+        "mu": 0.05422291602804547,
+        "determinant": 0.9993796361171625,
+        "crossing_slope": 1.209487991249078,
+        "residual": 9.563425268535219e-17
+      }
+    ]
+  },
+  {
+    "design": "random",
+    "budget": 16384,
+    "seed": 4,
+    "steps": 3600,
+    "minimum_branch_determinant": 0.9711552607247296,
+    "root_failures": 2,
+    "candidates": [
+      {
+        "mu": -0.022932596320136108,
+        "determinant": 0.9713104909676035,
+        "crossing_slope": 1.1213043605143302,
+        "residual": 1.8959345150258987e-16
+      }
+    ]
+  },
+  {
+    "design": "probe",
+    "budget": 16384,
+    "seed": 0,
+    "steps": 1200,
+    "minimum_branch_determinant": 0.8576750400964641,
+    "root_failures": 0,
+    "candidates": []
+  },
+  {
+    "design": "probe",
+    "budget": 16384,
+    "seed": 0,
+    "steps": 3600,
+    "minimum_branch_determinant": 0.699727058627708,
+    "root_failures": 1,
+    "candidates": []
+  },
+  {
+    "design": "probe",
+    "budget": 16384,
+    "seed": 1,
+    "steps": 1200,
+    "minimum_branch_determinant": 1.1371404302498458,
+    "root_failures": 0,
+    "candidates": [
+      {
+        "mu": -0.3108648017845133,
+        "determinant": 1.174063109521503,
+        "crossing_slope": -0.014100294463276207,
+        "residual": 8.673617379884035e-19
+      }
+    ]
+  },
+  {
+    "design": "probe",
+    "budget": 16384,
+    "seed": 1,
+    "steps": 3600,
+    "minimum_branch_determinant": 0.7230355309958515,
+    "root_failures": 0,
+    "candidates": [
+      {
+        "mu": 0.18666171270596374,
+        "determinant": 1.0738352385820227,
+        "crossing_slope": 0.026308427510113305,
+        "residual": 9.341771812940338e-18
+      }
+    ]
+  },
+  {
+    "design": "probe",
+    "budget": 16384,
+    "seed": 2,
+    "steps": 1200,
+    "minimum_branch_determinant": 0.980932811734411,
+    "root_failures": 0,
+    "candidates": []
+  },
+  {
+    "design": "probe",
+    "budget": 16384,
+    "seed": 2,
+    "steps": 3600,
+    "minimum_branch_determinant": 0.980932811734411,
+    "root_failures": 0,
+    "candidates": []
+  },
+  {
+    "design": "probe",
+    "budget": 16384,
+    "seed": 3,
+    "steps": 1200,
+    "minimum_branch_determinant": 0.8153281120190106,
+    "root_failures": 1,
+    "candidates": []
+  },
+  {
+    "design": "probe",
+    "budget": 16384,
+    "seed": 3,
+    "steps": 3600,
+    "minimum_branch_determinant": 0.7868229423137867,
+    "root_failures": 0,
+    "candidates": []
+  },
+  {
+    "design": "probe",
+    "budget": 16384,
+    "seed": 4,
+    "steps": 1200,
+    "minimum_branch_determinant": 0.9854385914652279,
+    "root_failures": 0,
+    "candidates": [
+      {
+        "mu": 0.3531745650326286,
+        "determinant": 1.3518193750799665,
+        "crossing_slope": 0.016879858787642588,
+        "residual": 1.734723475976807e-17
+      }
+    ]
+  },
+  {
+    "design": "probe",
+    "budget": 16384,
+    "seed": 4,
+    "steps": 3600,
+    "minimum_branch_determinant": 0.9854385914652279,
+    "root_failures": 0,
+    "candidates": [
+      {
+        "mu": 0.3531745650326286,
+        "determinant": 1.3518193750799665,
+        "crossing_slope": 0.016879858787642588,
+        "residual": 1.734723475976807e-17
+      }
+    ]
+  }
+]

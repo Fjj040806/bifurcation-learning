@@ -1,0 +1,60 @@
+{
+  "gradient_error_by_parameter_tensor": [
+    7.909690087691372e-13,
+    2.0409833626769056e-12,
+    2.0839546514864703e-12,
+    2.27845194968046e-12,
+    1.2448818018095942e-12,
+    3.774393991795577e-12
+  ],
+  "candidates": [
+    {
+      "model": "polynomial",
+      "frequency": 1.0000131985713154,
+      "crossing_slope": 0.9998735555655626,
+      "equilibrium_residual": 4.299663605024821e-22,
+      "jacobian_finite_difference_error": 9.899150688955625e-11,
+      "min_determinant_on_audit_grid": 1.000026390830277
+    },
+    {
+      "model": "node_seed0",
+      "frequency": 1.0696989105000492,
+      "crossing_slope": 0.8581885851483005,
+      "equilibrium_residual": 1.0152208857194486e-16,
+      "jacobian_finite_difference_error": 5.0604638535123314e-11,
+      "min_determinant_on_audit_grid": 1.0976052885712069
+    },
+    {
+      "model": "node_seed1",
+      "frequency": 1.0572123054925773,
+      "crossing_slope": 0.8895002418362468,
+      "equilibrium_residual": 9.152027910194108e-17,
+      "jacobian_finite_difference_error": 4.8573034483467836e-11,
+      "min_determinant_on_audit_grid": 1.0894931783071091
+    },
+    {
+      "model": "node_seed2",
+      "frequency": 1.0305711217799474,
+      "crossing_slope": 1.2205812931806448,
+      "equilibrium_residual": 4.166948782366562e-17,
+      "jacobian_finite_difference_error": 1.190365583880748e-10,
+      "min_determinant_on_audit_grid": 1.0474848207498935
+    },
+    {
+      "model": "node_seed3",
+      "frequency": 1.0354446942809923,
+      "crossing_slope": 1.063996584265217,
+      "equilibrium_residual": 1.0451708942760263e-16,
+      "jacobian_finite_difference_error": 1.1575378155992411e-10,
+      "min_determinant_on_audit_grid": 1.0653389290693491
+    },
+    {
+      "model": "node_seed4",
+      "frequency": 0.9949053522228608,
+      "crossing_slope": 0.9773769889583754,
+      "equilibrium_residual": 1.2738115944464653e-16,
+      "jacobian_finite_difference_error": 9.239142827535685e-11,
+      "min_determinant_on_audit_grid": 0.9735629516092744
+    }
+  ]
+}

@@ -1,0 +1,445 @@
+[
+  {
+    "model": "truth_hopf",
+    "system": "hopf",
+    "candidate": 0,
+    "lyapunov_h002": -2.000000000000001,
+    "lyapunov_h001": -2.000000000000001,
+    "relative_step_difference": 0.0,
+    "sign_consistent": true,
+    "frequency": 0.9999999999999997,
+    "periodic_section_points": [
+      {
+        "section_radius": 0.06,
+        "status": "verified_periodic_point",
+        "parameter": 0.0036000000109092417,
+        "period": 6.283185307749608,
+        "closing_residual": 9.971642620092054e-17,
+        "transverse_multiplier": 0.9557690887962037,
+        "log_transverse_multiplier": -0.04523893402206272,
+        "initial_state": [
+          0.06,
+          0.0
+        ]
+      },
+      {
+        "section_radius": 0.12,
+        "status": "verified_periodic_point",
+        "parameter": 0.014399999999780156,
+        "period": 6.28318530763113,
+        "closing_residual": 3.43438866887416e-13,
+        "transverse_multiplier": 0.8344722943925266,
+        "log_transverse_multiplier": -0.18095573668000772,
+        "initial_state": [
+          0.12,
+          0.0
+        ]
+      },
+      {
+        "section_radius": 0.2,
+        "status": "verified_periodic_point",
+        "parameter": 0.03999999997783964,
+        "period": 6.28318530754868,
+        "closing_residual": 9.884897121987784e-12,
+        "transverse_multiplier": 0.6049225628896436,
+        "log_transverse_multiplier": -0.5026548243671128,
+        "initial_state": [
+          0.2,
+          0.0
+        ]
+      },
+      {
+        "section_radius": 0.3,
+        "status": "verified_periodic_point",
+        "parameter": 0.08999999995240705,
+        "period": 6.283185307853341,
+        "closing_residual": 9.817690531647882e-11,
+        "transverse_multiplier": 0.3227189833492723,
+        "log_transverse_multiplier": -1.1309733550375427,
+        "initial_state": [
+          0.3,
+          0.0
+        ]
+      },
+      {
+        "section_radius": 0.4,
+        "status": "verified_periodic_point",
+        "parameter": 0.15999999991447178,
+        "period": 6.283185307439399,
+        "closing_residual": 3.202374036803467e-14,
+        "transverse_multiplier": 0.13390572143949606,
+        "log_transverse_multiplier": -2.010619298000744,
+        "initial_state": [
+          0.4,
+          0.0
+        ]
+      }
+    ],
+    "crossing_slope": 1.0,
+    "local_nondegeneracy_numerically_supported": true
+  },
+  {
+    "model": "truth_fhn",
+    "system": "fhn",
+    "candidate": 0.3312813374547458,
+    "lyapunov_h002": 0.9719710819872951,
+    "lyapunov_h001": 0.9719710819406544,
+    "relative_step_difference": 4.798567794192606e-11,
+    "sign_consistent": true,
+    "frequency": 0.275506805723561,
+    "periodic_section_points": [
+      {
+        "section_radius": 0.03,
+        "status": "verified_periodic_point",
+        "parameter": 0.3311937982904629,
+        "period": 22.854962379547228,
+        "closing_residual": 8.455206652451151e-16,
+        "transverse_multiplier": 1.0032906142171731,
+        "log_transverse_multiplier": 0.003285211994054061,
+        "initial_state": [
+          -0.937544735777295,
+          -0.33443091972161887
+        ]
+      },
+      {
+        "section_radius": 0.06,
+        "status": "verified_periodic_point",
+        "parameter": 0.33091027018066604,
+        "period": 23.01742467083418,
+        "closing_residual": 5.5358285084610146e-15,
+        "transverse_multiplier": 1.0144293356684597,
+        "log_transverse_multiplier": 0.01432622351419735,
+        "initial_state": [
+          -0.9077837228877221,
+          -0.3347296536096526
+        ]
+      },
+      {
+        "section_radius": 0.1,
+        "status": "verified_periodic_point",
+        "parameter": 0.33012501984604564,
+        "period": 23.49944047655345,
+        "closing_residual": 2.318213734067276e-15,
+        "transverse_multiplier": 1.0497251246513817,
+        "log_transverse_multiplier": 0.04852834385118035,
+        "initial_state": [
+          -0.8684451280339479,
+          -0.3355564100424349
+        ]
+      },
+      {
+        "section_radius": 0.16,
+        "status": "verified_periodic_point",
+        "parameter": 0.32704270810934366,
+        "period": 26.153603417898154,
+        "closing_residual": 4.698814838068773e-15,
+        "transverse_multiplier": 1.318034383241353,
+        "log_transverse_multiplier": 0.2761415231765792,
+        "initial_state": [
+          -0.8110344447180673,
+          -0.3387930558975842
+        ]
+      }
+    ],
+    "crossing_slope": 0.8157427738270105,
+    "local_nondegeneracy_numerically_supported": true
+  },
+  {
+    "model": "polynomial_fhn",
+    "system": "fhn",
+    "candidate": 0.32959536267735073,
+    "lyapunov_h002": 0.9616942199500954,
+    "lyapunov_h001": 0.96169417888747,
+    "relative_step_difference": 4.269821379727927e-08,
+    "sign_consistent": true,
+    "frequency": 0.2749418498904476,
+    "periodic_section_points": [
+      {
+        "section_radius": 0.03,
+        "status": "verified_periodic_point",
+        "parameter": 0.3295080998021229,
+        "period": 22.90171889963863,
+        "closing_residual": 2.362608106146228e-12,
+        "transverse_multiplier": 1.0032563850926215,
+        "log_transverse_multiplier": 0.0032510945529308083,
+        "initial_state": [
+          -0.9386527832003932,
+          -0.3354373371912682
+        ]
+      },
+      {
+        "section_radius": 0.06,
+        "status": "verified_periodic_point",
+        "parameter": 0.3292255813942486,
+        "period": 23.0637495912764,
+        "closing_residual": 5.169153986687487e-12,
+        "transverse_multiplier": 1.01427203239366,
+        "log_transverse_multiplier": 0.014171145711627336,
+        "initial_state": [
+          -0.9088904890542933,
+          -0.335734795445803
+        ]
+      },
+      {
+        "section_radius": 0.1,
+        "status": "verified_periodic_point",
+        "parameter": 0.3284438235852933,
+        "period": 23.54387137315779,
+        "closing_residual": 3.2160583613248056e-12,
+        "transverse_multiplier": 1.0491148312914187,
+        "log_transverse_multiplier": 0.04794679081238365,
+        "initial_state": [
+          -0.869547763785832,
+          -0.33655729421943525
+        ]
+      },
+      {
+        "section_radius": 0.16,
+        "status": "verified_periodic_point",
+        "parameter": 0.3253893605239301,
+        "period": 26.163339403867756,
+        "closing_residual": 1.958548699580772e-11,
+        "transverse_multiplier": 1.3101247998008085,
+        "log_transverse_multiplier": 0.2701223996989635,
+        "initial_state": [
+          -0.8121090907213517,
+          -0.3397625387945858
+        ]
+      }
+    ],
+    "crossing_slope": 0.808198314329253,
+    "local_nondegeneracy_numerically_supported": true
+  },
+  {
+    "model": "node_hopf_seed0",
+    "system": "hopf",
+    "candidate": -0.033464176444428693,
+    "lyapunov_h002": -3.183545388930914,
+    "lyapunov_h001": -3.183559332407041,
+    "relative_step_difference": 4.379857807298704e-06,
+    "sign_consistent": true,
+    "frequency": 0.9887857422568901,
+    "periodic_section_points": [
+      {
+        "section_radius": 0.06,
+        "status": "verified_periodic_point",
+        "parameter": -0.02824110824637262,
+        "period": 6.352732698297121,
+        "closing_residual": 2.9291093003377675e-14,
+        "transverse_multiplier": 0.9313562096028501,
+        "log_transverse_multiplier": -0.07111346521139901,
+        "initial_state": [
+          0.06071544269172059,
+          -0.0029988843535310736
+        ]
+      },
+      {
+        "section_radius": 0.12,
+        "status": "verified_periodic_point",
+        "parameter": -0.01270295287513288,
+        "period": 6.347548904520562,
+        "closing_residual": 6.575268152399213e-15,
+        "transverse_multiplier": 0.7562204310390057,
+        "log_transverse_multiplier": -0.27942236985404373,
+        "initial_state": [
+          0.12092743137259204,
+          -0.003261017926616223
+        ]
+      },
+      {
+        "section_radius": 0.2,
+        "status": "verified_periodic_point",
+        "parameter": 0.023044386056837854,
+        "period": 6.335021489168279,
+        "closing_residual": 1.4915758807604361e-13,
+        "transverse_multiplier": 0.4775357659668386,
+        "log_transverse_multiplier": -0.7391162193180548,
+        "initial_state": [
+          0.2013094128628714,
+          -0.003776870448703787
+        ]
+      },
+      {
+        "section_radius": 0.3,
+        "status": "verified_periodic_point",
+        "parameter": 0.08801143842061138,
+        "period": 6.310111248334161,
+        "closing_residual": 3.252062903702036e-13,
+        "transverse_multiplier": 0.2237302769798968,
+        "log_transverse_multiplier": -1.4973140732882784,
+        "initial_state": [
+          0.3015526975444253,
+          -0.004416636816955565
+        ]
+      },
+      {
+        "section_radius": 0.4,
+        "status": "verified_periodic_point",
+        "parameter": 0.16881609256924623,
+        "period": 6.279257007585312,
+        "closing_residual": 2.8695030875970844e-14,
+        "transverse_multiplier": 0.10159334776182004,
+        "log_transverse_multiplier": -2.2867772207665586,
+        "initial_state": [
+          0.4009777697059891,
+          -0.004785809404468065
+        ]
+      }
+    ],
+    "crossing_slope": 1.0753658755534994,
+    "local_nondegeneracy_numerically_supported": true
+  },
+  {
+    "model": "node_hopf_seed1",
+    "system": "hopf",
+    "candidate": -0.031922115275474505,
+    "lyapunov_h002": -3.2373167446586875,
+    "lyapunov_h001": -3.237335457711438,
+    "relative_step_difference": 5.780420708399703e-06,
+    "sign_consistent": true,
+    "frequency": 0.9768631951803781,
+    "crossing_slope": 1.0896942458621384,
+    "local_nondegeneracy_numerically_supported": true
+  },
+  {
+    "model": "node_hopf_seed2",
+    "system": "hopf",
+    "candidate": -0.02770981582952554,
+    "lyapunov_h002": -3.271513826266805,
+    "lyapunov_h001": -3.271537181891299,
+    "relative_step_difference": 7.1390878150775945e-06,
+    "sign_consistent": true,
+    "frequency": 0.9845073653995072,
+    "crossing_slope": 1.1390475730760352,
+    "local_nondegeneracy_numerically_supported": true
+  },
+  {
+    "model": "node_hopf_seed3",
+    "system": "hopf",
+    "candidate": -0.02431116048179077,
+    "lyapunov_h002": -2.9711234176834367,
+    "lyapunov_h001": -2.9711386514423044,
+    "relative_step_difference": 5.127272322996243e-06,
+    "sign_consistent": true,
+    "frequency": 0.9775624322872574,
+    "crossing_slope": 1.005690801790006,
+    "local_nondegeneracy_numerically_supported": true
+  },
+  {
+    "model": "node_hopf_seed4",
+    "system": "hopf",
+    "candidate": -0.017736879971491516,
+    "lyapunov_h002": -3.299080761197334,
+    "lyapunov_h001": -3.2991033018835907,
+    "relative_step_difference": 6.8324142051138325e-06,
+    "sign_consistent": true,
+    "frequency": 0.9739604663837,
+    "crossing_slope": 1.0678754472907837,
+    "local_nondegeneracy_numerically_supported": true
+  },
+  {
+    "model": "node_fhn_seed0",
+    "system": "fhn",
+    "candidate": 0.3804123757689177,
+    "lyapunov_h002": 3.2395379472005423,
+    "lyapunov_h001": 3.2395834490644058,
+    "relative_step_difference": 1.4045788197279544e-05,
+    "sign_consistent": true,
+    "frequency": 0.2856576038892358,
+    "periodic_section_points": [
+      {
+        "section_radius": 0.03,
+        "status": "verified_periodic_point",
+        "parameter": 0.38014515777991326,
+        "period": 22.05632905033509,
+        "closing_residual": 1.61567015172742e-14,
+        "transverse_multiplier": 1.0108648104549878,
+        "log_transverse_multiplier": 0.010806212457227488,
+        "initial_state": [
+          -0.9246457935726276,
+          -0.2960044519828343
+        ]
+      },
+      {
+        "section_radius": 0.06,
+        "status": "verified_periodic_point",
+        "parameter": 0.379282201309646,
+        "period": 22.25786578094053,
+        "closing_residual": 9.43689570931383e-15,
+        "transverse_multiplier": 1.048242533887221,
+        "log_transverse_multiplier": 0.047114984589013906,
+        "initial_state": [
+          -0.8954526703870542,
+          -0.2969500401510423
+        ]
+      },
+      {
+        "section_radius": 0.1,
+        "status": "verified_periodic_point",
+        "parameter": 0.3768666035363558,
+        "period": 22.86944782670607,
+        "closing_residual": 1.8389278529708538e-14,
+        "transverse_multiplier": 1.1758578031027431,
+        "log_transverse_multiplier": 0.16199792643657923,
+        "initial_state": [
+          -0.8576869002117594,
+          -0.299573448199612
+        ]
+      },
+      {
+        "section_radius": 0.16,
+        "status": "shooting_failed"
+      }
+    ],
+    "crossing_slope": 0.9108562152630727,
+    "local_nondegeneracy_numerically_supported": true
+  },
+  {
+    "model": "node_fhn_seed1",
+    "system": "fhn",
+    "candidate": 0.33499595108928326,
+    "lyapunov_h002": 1.733775905259594,
+    "lyapunov_h001": 1.733782829567933,
+    "relative_step_difference": 3.993773542430473e-06,
+    "sign_consistent": true,
+    "frequency": 0.279931792046951,
+    "crossing_slope": 0.7297951963552983,
+    "local_nondegeneracy_numerically_supported": true
+  },
+  {
+    "model": "node_fhn_seed2",
+    "system": "fhn",
+    "candidate": 0.3999165150307057,
+    "lyapunov_h002": 1.9132234606297471,
+    "lyapunov_h001": 1.9132368410895173,
+    "relative_step_difference": 6.993673266879872e-06,
+    "sign_consistent": true,
+    "frequency": 0.2841204577891838,
+    "crossing_slope": 1.0795479183905303,
+    "local_nondegeneracy_numerically_supported": true
+  },
+  {
+    "model": "node_fhn_seed3",
+    "system": "fhn",
+    "candidate": 0.41677609598411025,
+    "lyapunov_h002": 2.3500756600112434,
+    "lyapunov_h001": 2.3500911799340374,
+    "relative_step_difference": 6.604009844497092e-06,
+    "sign_consistent": true,
+    "frequency": 0.2800894625585246,
+    "crossing_slope": 0.7834537200379631,
+    "local_nondegeneracy_numerically_supported": true
+  },
+  {
+    "model": "node_fhn_seed4",
+    "system": "fhn",
+    "candidate": 0.26309329234337586,
+    "lyapunov_h002": 1.7778380446468434,
+    "lyapunov_h001": 1.7778508426917063,
+    "relative_step_difference": 7.1986562001630485e-06,
+    "sign_consistent": true,
+    "frequency": 0.2765854898510067,
+    "crossing_slope": 0.7273494661369505,
+    "local_nondegeneracy_numerically_supported": true
+  }
+]

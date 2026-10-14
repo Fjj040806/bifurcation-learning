@@ -1,0 +1,24 @@
+{
+  "source_only_full_regeneration": "passed",
+  "evidence_files_compared": [
+    "phase1/verification.json",
+    "phase2/results.json",
+    "phase3/results.json",
+    "phase3/summary.json",
+    "phase3/dictionary_identifiability.json",
+    "phase4/polynomial_robustness.json",
+    "phase4/equivariant_robustness.json",
+    "phase4/polynomial_extrapolation.json",
+    "phase4/node_robustness.json",
+    "phase4/fhn_results.json",
+    "phase4/hopf_and_cycle_audit.json",
+    "phase4/periodic_tolerance_refinement.json"
+  ],
+  "numeric_values_compared": 5551,
+  "maximum_absolute_difference": 0,
+  "excluded_fields": [
+    "elapsed_seconds"
+  ],
+  "environment": "same pinned runtime, single-thread BLAS",
+  "scope": "no cross-platform bitwise guarantee"
+}

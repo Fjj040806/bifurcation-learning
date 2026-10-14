@@ -1,0 +1,93 @@
+{
+  "gradient_check_absolute_error": 2.7599755434652012e-12,
+  "results": [
+    {
+      "model": "polynomial",
+      "short_test_mse": 5.063722832317105e-10,
+      "long_test_mse": 6.554951462992579e-10,
+      "rollout_failures": 0,
+      "equilibrium_root_failures": 0,
+      "crossings": [
+        1.9606545956344134e-05
+      ],
+      "critical_parameter_error": 1.9606545956344134e-05,
+      "stability_accuracy": 1.0,
+      "equilibrium_displacement_max": 1.9381647451843007e-05
+    },
+    {
+      "model": "node_seed0",
+      "seed": 0,
+      "validation_segment_mse": 0.00019424020789016617,
+      "short_test_mse": 0.0010000170166153857,
+      "long_test_mse": 0.012928955031624847,
+      "rollout_failures": 0,
+      "equilibrium_root_failures": 0,
+      "crossings": [
+        0.1623636914680287
+      ],
+      "critical_parameter_error": 0.1623636914680287,
+      "stability_accuracy": 0.8211920529801324,
+      "equilibrium_displacement_max": 0.040052381911529135
+    },
+    {
+      "model": "node_seed1",
+      "seed": 1,
+      "validation_segment_mse": 0.00013475751712444068,
+      "short_test_mse": 0.0011941141857711502,
+      "long_test_mse": 0.01259268406415966,
+      "rollout_failures": 0,
+      "equilibrium_root_failures": 0,
+      "crossings": [
+        0.17355320965915272
+      ],
+      "critical_parameter_error": 0.17355320965915272,
+      "stability_accuracy": 0.8079470198675497,
+      "equilibrium_displacement_max": 0.027377778749516617
+    },
+    {
+      "model": "node_seed2",
+      "seed": 2,
+      "validation_segment_mse": 0.00011077102953743496,
+      "short_test_mse": 0.0005369226230458224,
+      "long_test_mse": 0.006270746226705746,
+      "rollout_failures": 0,
+      "equilibrium_root_failures": 0,
+      "crossings": [
+        0.05203691401660946
+      ],
+      "critical_parameter_error": 0.05203691401660946,
+      "stability_accuracy": 0.9668874172185431,
+      "equilibrium_displacement_max": 0.031071691049869673
+    },
+    {
+      "model": "node_seed3",
+      "seed": 3,
+      "validation_segment_mse": 8.471074048065786e-05,
+      "short_test_mse": 0.0003971638180861945,
+      "long_test_mse": 0.006364462858712076,
+      "rollout_failures": 0,
+      "equilibrium_root_failures": 0,
+      "crossings": [
+        0.02598380469589358
+      ],
+      "critical_parameter_error": 0.02598380469589358,
+      "stability_accuracy": 1.0,
+      "equilibrium_displacement_max": 0.017887910388820573
+    },
+    {
+      "model": "node_seed4",
+      "seed": 4,
+      "validation_segment_mse": 7.286558369393052e-05,
+      "short_test_mse": 0.0002200987332512058,
+      "long_test_mse": 0.001296004479349327,
+      "rollout_failures": 0,
+      "equilibrium_root_failures": 0,
+      "crossings": [
+        0.05585840810262974
+      ],
+      "critical_parameter_error": 0.05585840810262974,
+      "stability_accuracy": 0.9602649006622517,
+      "equilibrium_displacement_max": 0.02763044811109656
+    }
+  ]
+}

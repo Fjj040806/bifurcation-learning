@@ -1,0 +1,77 @@
+[
+  {
+    "model": "polynomial",
+    "crossings": [
+      0.32959536267735073
+    ],
+    "critical_error": 0.0016859747773950717,
+    "root_failures": 0,
+    "test_rollout_failures": 0,
+    "test_mse": 4.931862930434665e-06
+  },
+  {
+    "model": "node",
+    "seed": 0,
+    "validation_normalized_mse": 0.00038824133480600535,
+    "best_step": 3400,
+    "crossings": [
+      0.3804123757689177
+    ],
+    "critical_error": 0.04913103831417187,
+    "root_failures": 0,
+    "test_rollout_failures": 0,
+    "test_mse": 0.023644470561441637
+  },
+  {
+    "model": "node",
+    "seed": 1,
+    "validation_normalized_mse": 0.00031656416609639415,
+    "best_step": 3500,
+    "crossings": [
+      0.33499595108928326
+    ],
+    "critical_error": 0.003714613634537456,
+    "root_failures": 0,
+    "test_rollout_failures": 0,
+    "test_mse": 0.028263985395876313
+  },
+  {
+    "model": "node",
+    "seed": 2,
+    "validation_normalized_mse": 0.0008190200398327574,
+    "best_step": 3500,
+    "crossings": [
+      0.3999165150307057
+    ],
+    "critical_error": 0.06863517757595988,
+    "root_failures": 0,
+    "test_rollout_failures": 0,
+    "test_mse": 0.03673453113098628
+  },
+  {
+    "model": "node",
+    "seed": 3,
+    "validation_normalized_mse": 0.0004577234888301906,
+    "best_step": 3500,
+    "crossings": [
+      0.41677609598411025
+    ],
+    "critical_error": 0.08549475852936445,
+    "root_failures": 0,
+    "test_rollout_failures": 0,
+    "test_mse": 0.02868072967727745
+  },
+  {
+    "model": "node",
+    "seed": 4,
+    "validation_normalized_mse": 0.00045383828658661314,
+    "best_step": 3500,
+    "crossings": [
+      0.26309329234337586
+    ],
+    "critical_error": 0.06818804511136994,
+    "root_failures": 0,
+    "test_rollout_failures": 0,
+    "test_mse": 0.03396271542861217
+  }
+]

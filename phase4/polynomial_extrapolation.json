@@ -1,0 +1,398 @@
+[
+  {
+    "design": "random",
+    "noise_sigma": 0,
+    "acquisition_seed": 0,
+    "training_parameters": [
+      -0.4,
+      -0.3,
+      -0.2,
+      -0.1
+    ],
+    "crossings": [
+      4.0285764561315955e-05
+    ],
+    "crossing_error": 4.0285764561315955e-05,
+    "root_failures": 0,
+    "crossing_slopes": [
+      0.9998656481692143
+    ],
+    "orientation_matches_truth": true
+  },
+  {
+    "design": "random",
+    "noise_sigma": 0,
+    "acquisition_seed": 1,
+    "training_parameters": [
+      -0.4,
+      -0.3,
+      -0.2,
+      -0.1
+    ],
+    "crossings": [
+      6.9492787106629665e-06
+    ],
+    "crossing_error": 6.9492787106629665e-06,
+    "root_failures": 0,
+    "crossing_slopes": [
+      0.999949631706597
+    ],
+    "orientation_matches_truth": true
+  },
+  {
+    "design": "random",
+    "noise_sigma": 0,
+    "acquisition_seed": 2,
+    "training_parameters": [
+      -0.4,
+      -0.3,
+      -0.2,
+      -0.1
+    ],
+    "crossings": [
+      -5.676535293014467e-06
+    ],
+    "crossing_error": 5.676535293014467e-06,
+    "root_failures": 0,
+    "crossing_slopes": [
+      0.9999974837849179
+    ],
+    "orientation_matches_truth": true
+  },
+  {
+    "design": "random",
+    "noise_sigma": 0,
+    "acquisition_seed": 3,
+    "training_parameters": [
+      -0.4,
+      -0.3,
+      -0.2,
+      -0.1
+    ],
+    "crossings": [
+      6.724538840721443e-05
+    ],
+    "crossing_error": 6.724538840721443e-05,
+    "root_failures": 0,
+    "crossing_slopes": [
+      0.9997978040002174
+    ],
+    "orientation_matches_truth": true
+  },
+  {
+    "design": "random",
+    "noise_sigma": 0,
+    "acquisition_seed": 4,
+    "training_parameters": [
+      -0.4,
+      -0.3,
+      -0.2,
+      -0.1
+    ],
+    "crossings": [
+      5.3328591161931434e-05
+    ],
+    "crossing_error": 5.3328591161931434e-05,
+    "root_failures": 0,
+    "crossing_slopes": [
+      0.999852548673491
+    ],
+    "orientation_matches_truth": true
+  },
+  {
+    "design": "random",
+    "noise_sigma": 0.01,
+    "acquisition_seed": 0,
+    "training_parameters": [
+      -0.4,
+      -0.3,
+      -0.2,
+      -0.1
+    ],
+    "crossings": [
+      0.01539215753117941
+    ],
+    "crossing_error": 0.01539215753117941,
+    "root_failures": 0,
+    "crossing_slopes": [
+      0.9662647308232043
+    ],
+    "orientation_matches_truth": true
+  },
+  {
+    "design": "random",
+    "noise_sigma": 0.01,
+    "acquisition_seed": 1,
+    "training_parameters": [
+      -0.4,
+      -0.3,
+      -0.2,
+      -0.1
+    ],
+    "crossings": [
+      -0.002105795277015622
+    ],
+    "crossing_error": 0.002105795277015622,
+    "root_failures": 0,
+    "crossing_slopes": [
+      0.9946231018952925
+    ],
+    "orientation_matches_truth": true
+  },
+  {
+    "design": "random",
+    "noise_sigma": 0.01,
+    "acquisition_seed": 2,
+    "training_parameters": [
+      -0.4,
+      -0.3,
+      -0.2,
+      -0.1
+    ],
+    "crossings": [
+      -0.0066038579830583885
+    ],
+    "crossing_error": 0.0066038579830583885,
+    "root_failures": 0,
+    "crossing_slopes": [
+      1.0014762674306117
+    ],
+    "orientation_matches_truth": true
+  },
+  {
+    "design": "random",
+    "noise_sigma": 0.01,
+    "acquisition_seed": 3,
+    "training_parameters": [
+      -0.4,
+      -0.3,
+      -0.2,
+      -0.1
+    ],
+    "crossings": [
+      0.006169179470958147
+    ],
+    "crossing_error": 0.006169179470958147,
+    "root_failures": 0,
+    "crossing_slopes": [
+      0.9709100489974086
+    ],
+    "orientation_matches_truth": true
+  },
+  {
+    "design": "random",
+    "noise_sigma": 0.01,
+    "acquisition_seed": 4,
+    "training_parameters": [
+      -0.4,
+      -0.3,
+      -0.2,
+      -0.1
+    ],
+    "crossings": [
+      -0.000905810210941924
+    ],
+    "crossing_error": 0.000905810210941924,
+    "root_failures": 0,
+    "crossing_slopes": [
+      1.0107806234497216
+    ],
+    "orientation_matches_truth": true
+  },
+  {
+    "design": "probe",
+    "noise_sigma": 0,
+    "acquisition_seed": 0,
+    "training_parameters": [
+      -0.4,
+      -0.3,
+      -0.2,
+      -0.1
+    ],
+    "crossings": [
+      -6.075358473533537e-06
+    ],
+    "crossing_error": 6.075358473533537e-06,
+    "root_failures": 0,
+    "crossing_slopes": [
+      0.9999178401483899
+    ],
+    "orientation_matches_truth": true
+  },
+  {
+    "design": "probe",
+    "noise_sigma": 0,
+    "acquisition_seed": 1,
+    "training_parameters": [
+      -0.4,
+      -0.3,
+      -0.2,
+      -0.1
+    ],
+    "crossings": [
+      -6.669730547703057e-06
+    ],
+    "crossing_error": 6.669730547703057e-06,
+    "root_failures": 0,
+    "crossing_slopes": [
+      0.999918855637467
+    ],
+    "orientation_matches_truth": true
+  },
+  {
+    "design": "probe",
+    "noise_sigma": 0,
+    "acquisition_seed": 2,
+    "training_parameters": [
+      -0.4,
+      -0.3,
+      -0.2,
+      -0.1
+    ],
+    "crossings": [
+      -6.554598065838528e-06
+    ],
+    "crossing_error": 6.554598065838528e-06,
+    "root_failures": 0,
+    "crossing_slopes": [
+      0.9999192135598277
+    ],
+    "orientation_matches_truth": true
+  },
+  {
+    "design": "probe",
+    "noise_sigma": 0,
+    "acquisition_seed": 3,
+    "training_parameters": [
+      -0.4,
+      -0.3,
+      -0.2,
+      -0.1
+    ],
+    "crossings": [
+      -6.612987611685905e-06
+    ],
+    "crossing_error": 6.612987611685905e-06,
+    "root_failures": 0,
+    "crossing_slopes": [
+      0.9999182712226334
+    ],
+    "orientation_matches_truth": true
+  },
+  {
+    "design": "probe",
+    "noise_sigma": 0,
+    "acquisition_seed": 4,
+    "training_parameters": [
+      -0.4,
+      -0.3,
+      -0.2,
+      -0.1
+    ],
+    "crossings": [
+      -6.4334579606583854e-06
+    ],
+    "crossing_error": 6.4334579606583854e-06,
+    "root_failures": 0,
+    "crossing_slopes": [
+      0.999918150894407
+    ],
+    "orientation_matches_truth": true
+  },
+  {
+    "design": "probe",
+    "noise_sigma": 0.01,
+    "acquisition_seed": 0,
+    "training_parameters": [
+      -0.4,
+      -0.3,
+      -0.2,
+      -0.1
+    ],
+    "crossings": [
+      0.20592097119114977
+    ],
+    "crossing_error": 0.20592097119114977,
+    "root_failures": 0,
+    "crossing_slopes": [
+      0.2710588436136141
+    ],
+    "orientation_matches_truth": true
+  },
+  {
+    "design": "probe",
+    "noise_sigma": 0.01,
+    "acquisition_seed": 1,
+    "training_parameters": [
+      -0.4,
+      -0.3,
+      -0.2,
+      -0.1
+    ],
+    "crossings": [
+      -0.13175294715569338
+    ],
+    "crossing_error": 0.13175294715569338,
+    "root_failures": 0,
+    "crossing_slopes": [
+      0.40771293965818906
+    ],
+    "orientation_matches_truth": true
+  },
+  {
+    "design": "probe",
+    "noise_sigma": 0.01,
+    "acquisition_seed": 2,
+    "training_parameters": [
+      -0.4,
+      -0.3,
+      -0.2,
+      -0.1
+    ],
+    "crossings": [
+      0.03888009087903686
+    ],
+    "crossing_error": 0.03888009087903686,
+    "root_failures": 0,
+    "crossing_slopes": [
+      0.2097311574855709
+    ],
+    "orientation_matches_truth": true
+  },
+  {
+    "design": "probe",
+    "noise_sigma": 0.01,
+    "acquisition_seed": 3,
+    "training_parameters": [
+      -0.4,
+      -0.3,
+      -0.2,
+      -0.1
+    ],
+    "crossings": [],
+    "crossing_error": null,
+    "root_failures": 0,
+    "crossing_slopes": [],
+    "orientation_matches_truth": false
+  },
+  {
+    "design": "probe",
+    "noise_sigma": 0.01,
+    "acquisition_seed": 4,
+    "training_parameters": [
+      -0.4,
+      -0.3,
+      -0.2,
+      -0.1
+    ],
+    "crossings": [
+      0.11340614529444978
+    ],
+    "crossing_error": 0.11340614529444978,
+    "root_failures": 0,
+    "crossing_slopes": [
+      0.18610709125663202
+    ],
+    "orientation_matches_truth": true
+  }
+]

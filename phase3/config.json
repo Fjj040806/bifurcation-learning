@@ -1,0 +1,43 @@
+{
+  "budgets": [
+    4096,
+    16384
+  ],
+  "designs": [
+    "passive",
+    "random",
+    "probe"
+  ],
+  "seeds": [
+    0,
+    1,
+    2,
+    3,
+    4
+  ],
+  "train_parameters": [
+    -0.4,
+    -0.2,
+    0.2,
+    0.4
+  ],
+  "checkpoints": [
+    1200,
+    3600
+  ],
+  "batch_size": 48,
+  "steps_per_segment": 6,
+  "dt": 0.07936507936507936,
+  "duration": 5,
+  "points_per_trajectory": 64,
+  "learning_rate": 0.003,
+  "validation_parameters": [
+    -0.3,
+    0.3
+  ],
+  "test_parameters": [
+    -0.1,
+    0.1
+  ],
+  "anchor_information": "Oracle attractor anchors used by the acquisition procedure; never provided to learners. Setup cost excluded; this is a conditional design experiment."
+}

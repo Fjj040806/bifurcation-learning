@@ -1,0 +1,24 @@
+{
+  "seed": 712,
+  "systems": {
+    "hopf": {
+      "mu": 0.25,
+      "particles": 150,
+      "time": [
+        0,
+        50
+      ]
+    },
+    "fhn": {
+      "I": 0.36,
+      "particles": 90,
+      "time": [
+        0,
+        90
+      ]
+    }
+  },
+  "presentation": "screen compositing with Gaussian bloom; color is trail age/style, not scalar diagnostic",
+  "data": "render_particle_trajectories.npz; scientifically exact axes omitted in showcase only",
+  "coordinates": "left: x,y [-1.6,1.6]; right: x [-2.5,2.5], y [-.55,1.6]; unequal coordinate scales in FHN showcase"
+}
